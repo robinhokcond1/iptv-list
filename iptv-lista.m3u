@@ -1,551 +1,1130 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="✦●✦ GENERAL ✦●✦" tvg-logo="https://lo1.in/BR/flag.png" group-title="AM | BRAZIL HD",✦●✦ GENERAL ✦●✦
-http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/171283.m3u8
-#EXTINF:-1 tvg-id="amc.br" tvg-name="BR| AMC HD" tvg-logo="https://lo1.in/BR/amc.png" group-title="AM | BRAZIL HD",BR| AMC HD
-http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/162303.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BR| ANHANGUERA GOIANIA" tvg-logo="https://lo1.in/BR/anhago.png" group-title="AM | BRAZIL HD",BR| ANHANGUERA GOIANIA
-http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/162391.m3u8
-#EXTINF:-1 tvg-id="arte1.br" tvg-name="BR| ARTE 1 HD" tvg-logo="https://lo1.in/BR/art.png" group-title="AM | BRAZIL HD",BR| ARTE 1 HD
-http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/171325.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BR| BAHIA HD" tvg-logo="https://lo1.in/BR/bahia0.png" group-title="AM | BRAZIL HD",BR| BAHIA HD
-http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/162392.m3u8
-#EXTINF:-1 tvg-id="band.br" tvg-name="BR| BAND HD" tvg-logo="https://lo1.in/BR/band.png" group-title="AM | BRAZIL HD",BR| BAND HD
-http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/162309.m3u8
-#EXTINF:-1 tvg-id="bandnews.br" tvg-name="BR| BAND NEWS HD" tvg-logo="https://lo1.in/BR/banns1.png" group-title="AM | BRAZIL HD",BR| BAND NEWS HD
-http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/162311.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BR| BAND SP HD" tvg-logo="https://lo1.in/BR/flag.png" group-title="AM | BRAZIL HD",BR| BAND SP HD
-http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/37424.m3u8
-#EXTINF:-1 tvg-id="bis.br" tvg-name="BR| BIS HD" tvg-logo="https://lo1.in/BR/bis.png" group-title="AM | BRAZIL HD",BR| BIS HD
-http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/171349.m3u8
-#EXTINF:-1 tvg-id="canalbrasil.br" tvg-name="BR| CANAL BRASIL HD" tvg-logo="https://lo1.in/BR/cnlbrs.png" group-title="AM | BRAZIL HD",BR| CANAL BRASIL HD
-http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/162316.m3u8
-#EXTINF:-1 tvg-id="combate.br" tvg-name="BR| COMBATE HD" tvg-logo="https://lo1.in/BR/combt.png" group-title="AM | BRAZIL HD",BR| COMBATE HD
-http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/162327.m3u8
-#EXTINF:-1 tvg-id="comedycentral.br" tvg-name="BR| COMEDY CENTRAL HD" tvg-logo="https://lo1.in/BR/cmdcnt.png" group-title="AM | BRAZIL HD",BR| COMEDY CENTRAL HD
-http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/162329.m3u8
-#EXTINF:-1 tvg-id="curta.br" tvg-name="BR| CURTA! HD" tvg-logo="https://lo1.in/BR/cl7.png" group-title="AM | BRAZIL HD",BR| CURTA! HD
-http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/162332.m3u8
-#EXTINF:-1 tvg-id="fishtv.br" tvg-name="BR| FISH TV HD" tvg-logo="https://lo1.in/BR/fish.png" group-title="AM | BRAZIL HD",BR| FISH TV HD
-http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/331282.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BR| TV CIDADE CANAL 9 HD" tvg-logo="https://lo1.in/BR/cidcnl9.png" group-title="AM | BRAZIL HD",BR| TV CIDADE CANAL 9 HD
-http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/380035.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BR| FILM & ARTS HD" tvg-logo="https://lo1.in/arg/fart.png" group-title="AM | BRAZIL HD",BR| FILM & ARTS HD
-http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/380033.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BR| GOSPEL MOVIES TELEVISION HD" tvg-logo="https://lo1.in/BR/gosmv.png" group-title="AM | BRAZIL HD",BR| GOSPEL MOVIES TELEVISION HD
-http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/380032.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BR| ITV HD" tvg-logo="https://lo1.in/BR/itv.png" group-title="AM | BRAZIL HD",BR| ITV HD
-http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/380031.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BR| PFC HD" tvg-logo="https://lo1.in/BR/pfc.png" group-title="AM | BRAZIL HD",BR| PFC HD
-http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/380027.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BR| TV UFSC HD" tvg-logo="https://lo1.in/BR/ufs.png" group-title="AM | BRAZIL HD",BR| TV UFSC HD
-http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/397465.m3u8
-#EXTINF:-1 tvg-id="redebrasil.br" tvg-name="BR| REDE BRASIL HD" tvg-logo="https://lo1.in/BR/rdet0.png" group-title="AM | BRAZIL HD",BR| REDE BRASIL HD
-http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/162489.m3u8
-#EXTINF:-1 tvg-id="redevida.br" tvg-name="BR| REDE VIDA HD" tvg-logo="https://lo1.in/BR/rdet0.png" group-title="AM | BRAZIL HD",BR| REDE VIDA HD
-http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/162492.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BR| REDE TV HD" tvg-logo="https://lo1.in/BR/flag.png" group-title="AM | BRAZIL HD",BR| REDE TV HD
-http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/37411.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BR| REDE FAMILIA HD" tvg-logo="https://lo1.in/BR/rdfm.png" group-title="AM | BRAZIL HD",BR| REDE FAMILIA HD
-http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/380024.m3u8
-#EXTINF:-1 tvg-id="redegospel.br" tvg-name="BR| REDE GOSPEL HD" tvg-logo="https://lo1.in/BR/rdgsp.png" group-title="AM | BRAZIL HD",BR| REDE GOSPEL HD
-http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/380023.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BR| REDE MÃO AMIGA HD" tvg-logo="https://lo1.in/BR/mao.png" group-title="AM | BRAZIL HD",BR| REDE MÃO AMIGA HD
-http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/397454.m3u8
-#EXTINF:-1 tvg-id="space.br" tvg-name="BR| SPACE HD" tvg-logo="https://lo1.in/BR/spc.png" group-title="AM | BRAZIL HD",BR| SPACE HD
-http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/380020.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BR| TVN BRASIL HD" tvg-logo="https://lo1.in/BR/tnbr.png" group-title="AM | BRAZIL HD",BR| TVN BRASIL HD
-http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/380017.m3u8
-#EXTINF:-1 tvg-id="gnt.br" tvg-name="BR| GNT HD" tvg-logo="https://lo1.in/BR/gnt.png" group-title="AM | BRAZIL HD",BR| GNT HD
-http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/331230.m3u8
-#EXTINF:-1 tvg-id="hgtv.br" tvg-name="BR| HGTV HD" tvg-logo="https://lo1.in/BR/hg.png" group-title="AM | BRAZIL HD",BR| HGTV HD
-http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/162439.m3u8
-#EXTINF:-1 tvg-id="multishow.br" tvg-name="BR| MULTISHOW HD" tvg-logo="https://lo1.in/BR/multsh.png" group-title="AM | BRAZIL HD",BR| MULTISHOW HD
-http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/331257.m3u8
-#EXTINF:-1 tvg-id="novotempo.br" tvg-name="BR| NOVO TEMPO HD" tvg-logo="https://lo1.in/BR/novotem.png" group-title="AM | BRAZIL HD",BR| NOVO TEMPO HD
-http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/331231.m3u8
-#EXTINF:-1 tvg-id="off.br" tvg-name="BR| OFF HD" tvg-logo="https://lo1.in/BR/off.png" group-title="AM | BRAZIL HD",BR| OFF HD
-http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/331258.m3u8
-#EXTINF:-1 tvg-id="recordtv.br" tvg-name="BR| RECORD HD" tvg-logo="https://lo1.in/BR/rcrd.png" group-title="AM | BRAZIL HD",BR| RECORD HD
-http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/162550.m3u8
-#EXTINF:-1 tvg-id="recordnews.br" tvg-name="BR| RECORD NEWS HD" tvg-logo="https://lo1.in/BR/rcord.png" group-title="AM | BRAZIL HD",BR| RECORD NEWS HD
-http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/162484.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BR| RECORD MG HD" tvg-logo="https://lo1.in/BR/rcord.png" group-title="AM | BRAZIL HD",BR| RECORD MG HD
-http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/162483.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BR| RECORD NORDESTE HD" tvg-logo="https://lo1.in/BR/rcord.png" group-title="AM | BRAZIL HD",BR| RECORD NORDESTE HD
-http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/162485.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BR| RECORD RS HD" tvg-logo="https://lo1.in/BR/flag.png" group-title="AM | BRAZIL HD",BR| RECORD RS HD
-http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/37406.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BR| RECORD RJ HD" tvg-logo="https://lo1.in/BR/flag.png" group-title="AM | BRAZIL HD",BR| RECORD RJ HD
-http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/37407.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BR| RECORD CAMPINAS HD" tvg-logo="https://lo1.in/BR/flag.png" group-title="AM | BRAZIL HD",BR| RECORD CAMPINAS HD
-http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/37410.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BR| RECORD BAHIA HD" tvg-logo="https://lo1.in/BR/rcrd.png" group-title="AM | BRAZIL HD",BR| RECORD BAHIA HD
-http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/53103.m3u8
-#EXTINF:-1 tvg-id="sbt.br" tvg-name="BR| SBT HD" tvg-logo="https://lo1.in/BR/sbt.png" group-title="AM | BRAZIL HD",BR| SBT HD
-http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/162495.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BR| SBT NORDESTE HD" tvg-logo="https://lo1.in/BR/sbt.png" group-title="AM | BRAZIL HD",BR| SBT NORDESTE HD
-http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/162496.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BR| SBT RJ HD" tvg-logo="https://lo1.in/BR/sbt.png" group-title="AM | BRAZIL HD",BR| SBT RJ HD
-http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/162497.m3u8
-#EXTINF:-1 tvg-id="sbt.br" tvg-name="BR| SBT SP HD" tvg-logo="https://lo1.in/BR/sbt.png" group-title="AM | BRAZIL HD",BR| SBT SP HD
-http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/162494.m3u8
-#EXTINF:-1 tvg-id="sony.br" tvg-name="BR| SONY HD" tvg-logo="https://lo1.in/BR/sny.png" group-title="AM | BRAZIL HD",BR| SONY HD
-http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/162499.m3u8
-#EXTINF:-1 tvg-id="syfy.br" tvg-name="BR| SYFY HD" tvg-logo="https://lo1.in/BR/syf.png" group-title="AM | BRAZIL HD",BR| SYFY HD
-http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/331259.m3u8
-#EXTINF:-1 tvg-id="tbs.br" tvg-name="BR| TBS HD" tvg-logo="https://lo1.in/BR/tbs.png" group-title="AM | BRAZIL HD",BR| TBS HD
-http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/331260.m3u8
-#EXTINF:-1 tvg-id="tcm.br" tvg-name="BR| TCM HD" tvg-logo="https://lo1.in/BR/tcm.png" group-title="AM | BRAZIL HD",BR| TCM HD
-http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/162509.m3u8
-#EXTINF:-1 tvg-id="tnt.br" tvg-name="BR| TNT HD" tvg-logo="https://lo1.in/BR/tnt.png" group-title="AM | BRAZIL HD",BR| TNT HD
-http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/171329.m3u8
-#EXTINF:-1 tvg-id="aande.br" tvg-name="BR| TV DIARIO HD" tvg-logo="https://lo1.in/BR/diar.png" group-title="AM | BRAZIL HD",BR| TV DIARIO HD
-http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/162535.m3u8
-#EXTINF:-1 tvg-id="tvgazeta.br" tvg-name="BR| TV GAZETA HD" tvg-logo="https://lo1.in/BR/tgaze.png" group-title="AM | BRAZIL HD",BR| TV GAZETA HD
-http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/171348.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BR| TV TEM BAURU HD" tvg-logo="https://lo1.in/BR/ttem.png" group-title="AM | BRAZIL HD",BR| TV TEM BAURU HD
-http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/331237.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BR| TV TEM SOROCABA HD" tvg-logo="https://lo1.in/BR/ttem.png" group-title="AM | BRAZIL HD",BR| TV TEM SOROCABA HD
-http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/162423.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BR| TV TRIBUNA SANTOS HD" tvg-logo="https://lo1.in/BR/ttrib.png" group-title="AM | BRAZIL HD",BR| TV TRIBUNA SANTOS HD
-http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/162424.m3u8
-#EXTINF:-1 tvg-id="universal.br" tvg-name="BR| UNIVERSAL CHANNEL HD" tvg-logo="https://lo1.in/BR/univch.png" group-title="AM | BRAZIL HD",BR| UNIVERSAL CHANNEL HD
-http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/162552.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BR| TV VANGUARDA DOS CAMPOS HD" tvg-logo="https://lo1.in/BR/tangu.png" group-title="AM | BRAZIL HD",BR| TV VANGUARDA DOS CAMPOS HD
-http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/331239.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BR| TV VERDES MARES FORTALEZA HD" tvg-logo="https://lo1.in/BR/terdes.png" group-title="AM | BRAZIL HD",BR| TV VERDES MARES FORTALEZA HD
-http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/162426.m3u8
-#EXTINF:-1 tvg-id="viva.br" tvg-name="BR| VIVA HD" tvg-logo="https://lo1.in/BR/vivah.png" group-title="AM | BRAZIL HD",BR| VIVA HD
-http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/331228.m3u8
-#EXTINF:-1 tvg-id="warnerchannel.br" tvg-name="BR| WARNER CHANNEL HD" tvg-logo="https://lo1.in/BR/warnch.png" group-title="AM | BRAZIL HD",BR| WARNER CHANNEL HD
-http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/331251.m3u8
-#EXTINF:-1 tvg-id="woohoo.br" tvg-name="BR| WOOHOO HD" tvg-logo="https://lo1.in/BR/woho.png" group-title="AM | BRAZIL HD",BR| WOOHOO HD
-http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/162563.m3u8
-#EXTINF:-1 tvg-id="zoomoo.br" tvg-name="BR| ZOOMOO HD" tvg-logo="https://lo1.in/BR/zomo.png" group-title="AM | BRAZIL HD",BR| ZOOMOO HD
-http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/162565.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BR| SANTA CECILIA TV HD" tvg-logo="https://lo1.in/BR/santa.png" group-title="AM | BRAZIL HD",BR| SANTA CECILIA TV HD
-http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/397450.m3u8
-#EXTINF:-1 tvg-id="terraviva.br" tvg-name="BR| TERRA VIVA HD" tvg-logo="https://lo1.in/BR/tervi.png" group-title="AM | BRAZIL HD",BR| TERRA VIVA HD
-http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/397449.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BR| TV CINEC SD" tvg-logo="https://lo1.in/BR/cine.png" group-title="AM | BRAZIL HD",BR| TV CINEC SD
-http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/397444.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BR| TV DESTAK SD" tvg-logo="https://lo1.in/BR/destak1.png" group-title="AM | BRAZIL HD",BR| TV DESTAK SD
-http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/397442.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BR| TV DIGITAL BIRIGUI HD" tvg-logo="https://lo1.in/BR/digit.png" group-title="AM | BRAZIL HD",BR| TV DIGITAL BIRIGUI HD
-http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/397441.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BR| TV GALEGA HD" tvg-logo="https://lo1.in/BR/galg.png" group-title="AM | BRAZIL HD",BR| TV GALEGA HD
-http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/397440.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BR| TV METRÓPOLE HD" tvg-logo="https://lo1.in/BR/metro.png" group-title="AM | BRAZIL HD",BR| TV METRÓPOLE HD
-http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/397436.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BR| TV PAI ETERNO HD" tvg-logo="https://lo1.in/BR/tpai.png" group-title="AM | BRAZIL HD",BR| TV PAI ETERNO HD
-http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/397435.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BR| TV SOL COMUNIDADE HD" tvg-logo="https://lo1.in/BR/tsolcom.png" group-title="AM | BRAZIL HD",BR| TV SOL COMUNIDADE HD
-http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/397433.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BR| TV TERCEIRO ANJO HD" tvg-logo="https://lo1.in/BR/tterc.png" group-title="AM | BRAZIL HD",BR| TV TERCEIRO ANJO HD
-http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/397432.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BR| UNITV PORTO ALEGRE HD" tvg-logo="https://lo1.in/BR/unitaleg.png" group-title="AM | BRAZIL HD",BR| UNITV PORTO ALEGRE HD
-http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/397426.m3u8
-#EXTINF:-1 tvg-id="tvcamara.br" tvg-name="BR| TV CAMARA HD" tvg-logo="https://lo1.in/BR/camr.png" group-title="AM | BRAZIL HD",BR| TV CAMARA HD
-http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/331234.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BR| TV BRASIL HD" tvg-logo="https://lo1.in/BR/flag.png" group-title="AM | BRAZIL HD",BR| TV BRASIL HD
-http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/37403.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BR| BBB CAM 01 (ACOMPANHE A CASA 1)" tvg-logo="https://lo1.in/BR/bigbrz.png" group-title="AM | BRAZIL HD",BR| BBB CAM 01 (ACOMPANHE A CASA 1)
-http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/401562219.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BR| BBB CAM 02 (ACOMPANHE A CASA 2)" tvg-logo="https://lo1.in/BR/bigbrz.png" group-title="AM | BRAZIL HD",BR| BBB CAM 02 (ACOMPANHE A CASA 2)
-http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/401562220.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BR| BBB CAM 03 (MOSAICO)" tvg-logo="https://lo1.in/BR/bigbrz.png" group-title="AM | BRAZIL HD",BR| BBB CAM 03 (MOSAICO)
-http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/401562221.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BR| BBB CAM 04 (COZINHA)" tvg-logo="https://lo1.in/BR/bigbrz.png" group-title="AM | BRAZIL HD",BR| BBB CAM 04 (COZINHA)
-http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/401562222.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BR| BBB CAM 05 (QUARTO ANOS 50)" tvg-logo="https://lo1.in/BR/bigbrz.png" group-title="AM | BRAZIL HD",BR| BBB CAM 05 (QUARTO ANOS 50)
-http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/401562223.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BR| BBB CAM 06 (QUARTO NORDESTE)" tvg-logo="https://lo1.in/BR/bigbrz.png" group-title="AM | BRAZIL HD",BR| BBB CAM 06 (QUARTO NORDESTE)
-http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/401562224.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BR| BBB CAM 07 (QUARTO FANTÁSTICO)" tvg-logo="https://lo1.in/BR/bigbrz.png" group-title="AM | BRAZIL HD",BR| BBB CAM 07 (QUARTO FANTÁSTICO)
-http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/401562225.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BR| BBB CAM 08 (COZINHA 2)" tvg-logo="https://lo1.in/BR/bigbrz.png" group-title="AM | BRAZIL HD",BR| BBB CAM 08 (COZINHA 2)
-http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/401562226.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BR| BBB CAM 09 (CÂMERA PANTENE)" tvg-logo="https://lo1.in/BR/bigbrz.png" group-title="AM | BRAZIL HD",BR| BBB CAM 09 (CÂMERA PANTENE)
-http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/401562227.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BR| BBB CAM 10 (SALA)" tvg-logo="https://lo1.in/BR/bigbrz.png" group-title="AM | BRAZIL HD",BR| BBB CAM 10 (SALA)
-http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/401562228.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BR| BBB CAM 11 (PISCINA)" tvg-logo="https://lo1.in/BR/bigbrz.png" group-title="AM | BRAZIL HD",BR| BBB CAM 11 (PISCINA)
-http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/401562229.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BR| BBB CAM 12 (ACADEMIA)" tvg-logo="https://lo1.in/BR/bigbrz.png" group-title="AM | BRAZIL HD",BR| BBB CAM 12 (ACADEMIA)
-http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/401564167.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="✦●✦ SPORTS✦●✦" tvg-logo="https://lo1.in/BR/flag.png" group-title="AM | BRAZIL HD",✦●✦ SPORTS✦●✦
-http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/355446.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BR| 100 AUTO MOTO TV SD" tvg-logo="https://lo1.in/BR/10atmt1.png" group-title="AM | BRAZIL HD",BR| 100 AUTO MOTO TV SD
-http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/162296.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BR| ALL SPORTS HD" tvg-logo="https://lo1.in/BR/alsp.png" group-title="AM | BRAZIL HD",BR| ALL SPORTS HD
-http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/162302.m3u8
-#EXTINF:-1 tvg-id="bandsports.br" tvg-name="BR| BAND SPORTS HD" tvg-logo="https://lo1.in/BR/bansp.png" group-title="AM | BRAZIL HD",BR| BAND SPORTS HD
-http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/162313.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BR| CONMEBOL TV  1 HD" tvg-logo="https://lo1.in/BR/conmbl.png" group-title="AM | BRAZIL HD",BR| CONMEBOL TV  1 HD
-http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/360178.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BR| CONMEBOL TV 2 HD" tvg-logo="https://lo1.in/BR/conmbl.png" group-title="AM | BRAZIL HD",BR| CONMEBOL TV 2 HD
-http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/360179.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BR| CONMEBOL TV  3 HD" tvg-logo="https://lo1.in/BR/conmbl.png" group-title="AM | BRAZIL HD",BR| CONMEBOL TV  3 HD
-http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/379635.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BR| CONMEBOL TV 4 HD" tvg-logo="https://lo1.in/BR/conmbl.png" group-title="AM | BRAZIL HD",BR| CONMEBOL TV 4 HD
-http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/379636.m3u8
-#EXTINF:-1 tvg-id="espnbrasil.br" tvg-name="BR| ESPN BRASIL HD" tvg-logo="https://lo1.in/BR/espbrs.png" group-title="AM | BRAZIL HD",BR| ESPN BRASIL HD
-http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/162359.m3u8
-#EXTINF:-1 tvg-id="espn.br" tvg-name="BR| ESPN EXTRA HD" tvg-logo="https://lo1.in/BR/esp.png" group-title="AM | BRAZIL HD",BR| ESPN EXTRA HD
-http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/171310.m3u8
-#EXTINF:-1 tvg-id="espnextra.br" tvg-name="BR| ESPN HD" tvg-logo="https://lo1.in/BR/espex.png" group-title="AM | BRAZIL HD",BR| ESPN HD
-http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/171302.m3u8
-#EXTINF:-1 tvg-id="espn.br" tvg-name="BR| ESPN 2 HD" tvg-logo="https://lo1.in/BR/esp.png" group-title="AM | BRAZIL HD",BR| ESPN 2 HD
-http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/171301.m3u8
-#EXTINF:-1 tvg-id="espnextra.br" tvg-name="BR| ESPN 3 HD" tvg-logo="https://lo1.in/BR/espex.png" group-title="AM | BRAZIL HD",BR| ESPN 3 HD
-http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/162360.m3u8
-#EXTINF:-1 tvg-id="espn2.br" tvg-name="BR| ESPN 4 HD" tvg-logo="https://lo1.in/BR/espn4.png" group-title="AM | BRAZIL HD",BR| ESPN 4 HD
-http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/162358.m3u8
-#EXTINF:-1 tvg-id="foxsports2.br" tvg-name="BR| FOX SPORTS 2 HD" tvg-logo="https://lo1.in/BR/fxsp.png" group-title="AM | BRAZIL HD",BR| FOX SPORTS 2 HD
-http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/162381.m3u8
-#EXTINF:-1 tvg-id="foxsports.br" tvg-name="BR| FOX SPORTS HD" tvg-logo="https://lo1.in/BR/fxsp.png" group-title="AM | BRAZIL HD",BR| FOX SPORTS HD
-http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/162380.m3u8
-#EXTINF:-1 tvg-id="sportv.br" tvg-name="BR| SPORTV 1 HD" tvg-logo="https://lo1.in/BR/sp1.png" group-title="AM | BRAZIL HD",BR| SPORTV 1 HD
-http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/171307.m3u8
-#EXTINF:-1 tvg-id="sportv2.br" tvg-name="BR| SPORTV 2 HD" tvg-logo="https://lo1.in/BR/spt2.png" group-title="AM | BRAZIL HD",BR| SPORTV 2 HD
-http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/171308.m3u8
-#EXTINF:-1 tvg-id="sportv3.br" tvg-name="BR| SPORTV 3 HD" tvg-logo="https://lo1.in/BR/spt3.png" group-title="AM | BRAZIL HD",BR| SPORTV 3 HD
-http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/171309.m3u8
-#EXTINF:-1 tvg-id="paramount.br" tvg-name="BR| PARAMOUNT CHANNEL HD" tvg-logo="https://lo1.in/BR/paramch.png" group-title="AM | BRAZIL HD",BR| PARAMOUNT CHANNEL HD
-http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/162465.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BR| PREMIERE 1 HD" tvg-logo="https://lo1.in/BR/prme.png" group-title="AM | BRAZIL HD",BR| PREMIERE 1 HD
-http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/162468.m3u8
-#EXTINF:-1 tvg-id="premiere2.br" tvg-name="BR| PREMIERE 2 HD" tvg-logo="https://lo1.in/BR/prme2.png" group-title="AM | BRAZIL HD",BR| PREMIERE 2 HD
-http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/331246.m3u8
-#EXTINF:-1 tvg-id="premiere3.br" tvg-name="BR| PREMIERE 3 HD" tvg-logo="https://lo1.in/BR/prme3.png" group-title="AM | BRAZIL HD",BR| PREMIERE 3 HD
-http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/331247.m3u8
-#EXTINF:-1 tvg-id="premiere4.br" tvg-name="BR| PREMIERE 4 HD" tvg-logo="https://lo1.in/BR/prme.png" group-title="AM | BRAZIL HD",BR| PREMIERE 4 HD
-http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/162471.m3u8
-#EXTINF:-1 tvg-id="premiere5.br" tvg-name="BR| PREMIERE 5 HD" tvg-logo="https://lo1.in/BR/prme.png" group-title="AM | BRAZIL HD",BR| PREMIERE 5 HD
-http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/331248.m3u8
-#EXTINF:-1 tvg-id="premiere6.br" tvg-name="BR| PREMIERE 6 HD" tvg-logo="https://lo1.in/BR/prme.png" group-title="AM | BRAZIL HD",BR| PREMIERE 6 HD
-http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/331249.m3u8
-#EXTINF:-1 tvg-id="premiere7.br" tvg-name="BR| PREMIERE 7 HD" tvg-logo="https://lo1.in/BR/prme7.png" group-title="AM | BRAZIL HD",BR| PREMIERE 7 HD
-http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/400230122.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="✦●✦ CINEMA✦●✦" tvg-logo="https://lo1.in/BR/flag.png" group-title="AM | BRAZIL HD",✦●✦ CINEMA✦●✦
-http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/355445.m3u8
-#EXTINF:-1 tvg-id="axn.br" tvg-name="BR| AXN HD" tvg-logo="https://lo1.in/BR/axn.png" group-title="AM | BRAZIL HD",BR| AXN HD
-http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/171323.m3u8
-#EXTINF:-1 tvg-id="cinemax.br" tvg-name="BR| CINEMAX HD" tvg-logo="https://lo1.in/BR/cinmx.png" group-title="AM | BRAZIL HD",BR| CINEMAX HD
-http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/171327.m3u8
-#EXTINF:-1 tvg-id="megapix.br" tvg-name="BR| MEGAPIX HD" tvg-logo="https://lo1.in/BR/megapx.png" group-title="AM | BRAZIL HD",BR| MEGAPIX HD
-http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/171297.m3u8
-#EXTINF:-1 tvg-id="fox.br" tvg-name="BR| FOX HD" tvg-logo="https://lo1.in/BR/fox.png" group-title="AM | BRAZIL HD",BR| FOX HD
-http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/162384.m3u8
-#EXTINF:-1 tvg-id="fx.br" tvg-name="BR| FX HD" tvg-logo="https://lo1.in/BR/fx.png" group-title="AM | BRAZIL HD",BR| FX HD
-http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/331254.m3u8
-#EXTINF:-1 tvg-id="hbo.br" tvg-name="BR| HBO HD" tvg-logo="https://lo1.in/BR/hbo.png" group-title="AM | BRAZIL HD",BR| HBO HD
-http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/171313.m3u8
-#EXTINF:-1 tvg-id="hbo2.br" tvg-name="BR| HBO 2 HD" tvg-logo="https://lo1.in/BR/hbo2.png" group-title="AM | BRAZIL HD",BR| HBO 2 HD
-http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/171314.m3u8
-#EXTINF:-1 tvg-id="hbofamily.br" tvg-name="BR| HBO FAMILY HD" tvg-logo="https://lo1.in/BR/hbofm.png" group-title="AM | BRAZIL HD",BR| HBO FAMILY HD
-http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/331242.m3u8
-#EXTINF:-1 tvg-id="hbomundi.br" tvg-name="BR| HBO MUNDI HD" tvg-logo="https://lo1.in/BR/hbom.png" group-title="AM | BRAZIL HD",BR| HBO MUNDI HD
-http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/331244.m3u8
-#EXTINF:-1 tvg-id="hboplusbrasil.br" tvg-name="BR| HBO PLUS HD" tvg-logo="https://lo1.in/BR/hbopl.png" group-title="AM | BRAZIL HD",BR| HBO PLUS HD
-http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/171315.m3u8
-#EXTINF:-1 tvg-id="hbopop.br" tvg-name="BR| HBO POP HD" tvg-logo="https://lo1.in/BR/hbopo.png" group-title="AM | BRAZIL HD",BR| HBO POP HD
-http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/331245.m3u8
-#EXTINF:-1 tvg-id="hbosignature.br" tvg-name="BR| HBO SIGNATURE HD" tvg-logo="https://lo1.in/BR/hbosignat.png" group-title="AM | BRAZIL HD",BR| HBO SIGNATURE HD
-http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/171333.m3u8
-#EXTINF:-1 tvg-id="hboxtreme.br" tvg-name="BR| HBO XTREME HD" tvg-logo="https://lo1.in/BR/hboxtr.png" group-title="AM | BRAZIL HD",BR| HBO XTREME HD
-http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/331243.m3u8
-#EXTINF:-1 tvg-id="telecineaction.br" tvg-name="BR| TELECINE ACTION HD" tvg-logo="https://lo1.in/BR/telact.png" group-title="AM | BRAZIL HD",BR| TELECINE ACTION HD
-http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/171316.m3u8
-#EXTINF:-1 tvg-id="telecinecult.br" tvg-name="BR| TELECINE CULT HD" tvg-logo="https://lo1.in/BR/telcu.png" group-title="AM | BRAZIL HD",BR| TELECINE CULT HD
-http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/171332.m3u8
-#EXTINF:-1 tvg-id="telecinefun.br" tvg-name="BR| TELECINE FUN HD" tvg-logo="https://lo1.in/BR/telcef.png" group-title="AM | BRAZIL HD",BR| TELECINE FUN HD
-http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/171317.m3u8
-#EXTINF:-1 tvg-id="telecinepipoca.br" tvg-name="BR| TELECINE PIPOCA HD" tvg-logo="https://lo1.in/BR/telpipo.png" group-title="AM | BRAZIL HD",BR| TELECINE PIPOCA HD
-http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/171318.m3u8
-#EXTINF:-1 tvg-id="telecinepremium.br" tvg-name="BR| TELECINE PREMIUM HD" tvg-logo="https://lo1.in/BR/telcnpr.png" group-title="AM | BRAZIL HD",BR| TELECINE PREMIUM HD
-http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/171319.m3u8
-#EXTINF:-1 tvg-id="telecinetouch.br" tvg-name="BR| TELECINE TOUCH HD" tvg-logo="https://lo1.in/BR/telcnto.png" group-title="AM | BRAZIL HD",BR| TELECINE TOUCH HD
-http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/171320.m3u8
-#EXTINF:-1 tvg-id="tntseries.br" tvg-name="BR| TNT SERIES HD" tvg-logo="https://lo1.in/BR/tntser.png" group-title="AM | BRAZIL HD",BR| TNT SERIES HD
-http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/171322.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BR| CINE CANAL HD" tvg-logo="https://lo1.in/BR/flag.png" group-title="AM | BRAZIL HD",BR| CINE CANAL HD
-http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/37413.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BR| STAR CHANNEL HD" tvg-logo="https://lo1.in/BR/flag.png" group-title="AM | BRAZIL HD",BR| STAR CHANNEL HD
-http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/37414.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="✦●✦ DOCUMANTARY✦●✦" tvg-logo="https://lo1.in/BR/flag.png" group-title="AM | BRAZIL HD",✦●✦ DOCUMANTARY✦●✦
-http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/355448.m3u8
-#EXTINF:-1 tvg-id="aande.br" tvg-name="BR| A&E HD" tvg-logo="https://lo1.in/BR/ane.png" group-title="AM | BRAZIL HD",BR| A&E HD
-http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/171324.m3u8
-#EXTINF:-1 tvg-id="discoverchannel.br" tvg-name="BR| DISCOVERY CHANNEL HD" tvg-logo="https://lo1.in/BR/disch.png" group-title="AM | BRAZIL HD",BR| DISCOVERY CHANNEL HD
-http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/171335.m3u8
-#EXTINF:-1 tvg-id="discoveryhomehealth.br" tvg-name="BR| DISCOVERY H&H HD" tvg-logo="https://lo1.in/arg/hhh.png" group-title="AM | BRAZIL HD",BR| DISCOVERY H&H HD
-http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/162341.m3u8
-#EXTINF:-1 tvg-id="investigacaodiscovery.br" tvg-name="BR| DISCOVERY ID-INVESTIGACAO HD" tvg-logo="https://lo1.in/BR/disinve.png" group-title="AM | BRAZIL HD",BR| DISCOVERY ID-INVESTIGACAO HD
-http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/162443.m3u8
-#EXTINF:-1 tvg-id="discoverykids.br" tvg-name="BR| DISCOVERY KIDS HD" tvg-logo="https://lo1.in/BR/diskds.png" group-title="AM | BRAZIL HD",BR| DISCOVERY KIDS HD
-http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/171339.m3u8
-#EXTINF:-1 tvg-id="discoveryscience.br" tvg-name="BR| DISCOVERY SCIENCE HD" tvg-logo="https://lo1.in/BR/dissci.png" group-title="AM | BRAZIL HD",BR| DISCOVERY SCIENCE HD
-http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/162344.m3u8
-#EXTINF:-1 tvg-id="discoverytheater.br" tvg-name="BR| DISCOVERY THEATER HD" tvg-logo="https://lo1.in/BR/disthe.png" group-title="AM | BRAZIL HD",BR| DISCOVERY THEATER HD
-http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/171336.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BR| DISCOVERY TLC HD" tvg-logo="https://lo1.in/BR/distlc.png" group-title="AM | BRAZIL HD",BR| DISCOVERY TLC HD
-http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/162346.m3u8
-#EXTINF:-1 tvg-id="discoveryturbo.br" tvg-name="BR| DISCOVERY TURBO HD" tvg-logo="https://lo1.in/BR/distrb.png" group-title="AM | BRAZIL HD",BR| DISCOVERY TURBO HD
-http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/171334.m3u8
-#EXTINF:-1 tvg-id="discoveryworld.br" tvg-name="BR| DISCOVERY WORLD HD" tvg-logo="https://lo1.in/BR/diswrd.png" group-title="AM | BRAZIL HD",BR| DISCOVERY WORLD HD
-http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/171337.m3u8
-#EXTINF:-1 tvg-id="foodnetwork.br" tvg-name="BR| FOOD NETWORK HD" tvg-logo="https://lo1.in/BR/fodnet.png" group-title="AM | BRAZIL HD",BR| FOOD NETWORK HD
-http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/171345.m3u8
-#EXTINF:-1 tvg-id="futura.br" tvg-name="BR| FUTURA HD" tvg-logo="https://lo1.in/BR/futr.png" group-title="AM | BRAZIL HD",BR| FUTURA HD
-http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/162386.m3u8
-#EXTINF:-1 tvg-id="history2.br" tvg-name="BR| H2 HD" tvg-logo="https://lo1.in/BR/h2.png" group-title="AM | BRAZIL HD",BR| H2 HD
-http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/162432.m3u8
-#EXTINF:-1 tvg-id="historychannel.br" tvg-name="BR| HISTORY CHANNEL HD" tvg-logo="https://lo1.in/BR/histch.png" group-title="AM | BRAZIL HD",BR| HISTORY CHANNEL HD
-http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/162440.m3u8
-#EXTINF:-1 tvg-id="nationalgeographic.br" tvg-name="BR| NAT GEO HD" tvg-logo="https://lo1.in/BR/natgeo.png" group-title="AM | BRAZIL HD",BR| NAT GEO HD
-http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/331280.m3u8
-#EXTINF:-1 tvg-id="natgeokids.br" tvg-name="BR| NAT GEO KIDS HD" tvg-logo="https://lo1.in/BR/natgeok.png" group-title="AM | BRAZIL HD",BR| NAT GEO KIDS HD
-http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/171342.m3u8
-#EXTINF:-1 tvg-id="studiouniversal.br" tvg-name="BR| STUDIO UNIVERSAL HD" tvg-logo="https://lo1.in/BR/STUDIO UNIVERSAL.png" group-title="AM | BRAZIL HD",BR| STUDIO UNIVERSAL HD
-http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/162551.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BR| TRAVEL BOX HD" tvg-logo="https://lo1.in/BR/trvbx.png" group-title="AM | BRAZIL HD",BR| TRAVEL BOX HD
-http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/162523.m3u8
-#EXTINF:-1 tvg-id="animalplanet.br" tvg-name="BR| ANIMAL PLANET HD" tvg-logo="https://lo1.in/BR/anmpl.png" group-title="AM | BRAZIL HD",BR| ANIMAL PLANET HD
-http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/331279.m3u8
-#EXTINF:-1 tvg-id="eentertainment.br" tvg-name="BR| E! HD" tvg-logo="https://lo1.in/BR/e.png" group-title="AM | BRAZIL HD",BR| E! HD
-http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/162354.m3u8
-#EXTINF:-1 tvg-id="cultura.br" tvg-name="BR| TV CULTURA HD" tvg-logo="https://lo1.in/BR/cultr.png" group-title="AM | BRAZIL HD",BR| TV CULTURA HD
-http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/162534.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="✦●✦ KIDS✦●✦" tvg-logo="https://lo1.in/BR/flag.png" group-title="AM | BRAZIL HD",✦●✦ KIDS✦●✦
-http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/355444.m3u8
-#EXTINF:-1 tvg-id="babytv.br" tvg-name="BR| BABY TV HD" tvg-logo="https://lo1.in/BR/bby.png" group-title="AM | BRAZIL HD",BR| BABY TV HD
-http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/162308.m3u8
-#EXTINF:-1 tvg-id="boomerang.br" tvg-name="BR| BOOMERANG HD" tvg-logo="https://lo1.in/BR/bomer.png" group-title="AM | BRAZIL HD",BR| BOOMERANG HD
-http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/162315.m3u8
-#EXTINF:-1 tvg-id="cartoonnetwork.br" tvg-name="BR| CARTOON NETWORK HD" tvg-logo="https://lo1.in/BR/crtnet.png" group-title="AM | BRAZIL HD",BR| CARTOON NETWORK HD
-http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/162321.m3u8
-#EXTINF:-1 tvg-id="disney.br" tvg-name="BR| DISNEY CHANNEL HD" tvg-logo="https://lo1.in/BR/dsych.png" group-title="AM | BRAZIL HD",BR| DISNEY CHANNEL HD
-http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/171338.m3u8
-#EXTINF:-1 tvg-id="disneyjunior.br" tvg-name="BR| DISNEY JR HD" tvg-logo="https://lo1.in/BR/nickjr.png" group-title="AM | BRAZIL HD",BR| DISNEY JR HD
-http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/171340.m3u8
-#EXTINF:-1 tvg-id="disneyxd.br" tvg-name="BR| DISNEY XD HD" tvg-logo="https://lo1.in/BR/disxd.png" group-title="AM | BRAZIL HD",BR| DISNEY XD HD
-http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/171343.m3u8
-#EXTINF:-1 tvg-id="lifetime.br" tvg-name="BR| LIFETIME HD" tvg-logo="https://lo1.in/BR/lftm.png" group-title="AM | BRAZIL HD",BR| LIFETIME HD
-http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/331229.m3u8
-#EXTINF:-1 tvg-id="nickjr.br" tvg-name="BR| NICK JR HD" tvg-logo="https://lo1.in/BR/nickjr.png" group-title="AM | BRAZIL HD",BR| NICK JR HD
-http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/171341.m3u8
-#EXTINF:-1 tvg-id="nickelodeon.br" tvg-name="BR| NICKELODEON HD" tvg-logo="https://lo1.in/BR/nickld.png" group-title="AM | BRAZIL HD",BR| NICKELODEON HD
-http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/171344.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="✦●✦ MUSIC✦●✦" tvg-logo="https://lo1.in/BR/flag.png" group-title="AM | BRAZIL HD",✦●✦ MUSIC✦●✦
-http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/355447.m3u8
-#EXTINF:-1 tvg-id="vh1.br" tvg-name="BR| VH1 HD" tvg-logo="https://lo1.in/BR/vh1.png" group-title="AM | BRAZIL HD",BR| VH1 HD
-http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/162557.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="✦●✦ NEWS ✦●✦" tvg-logo="https://lo1.in/BR/flag.png" group-title="AM | BRAZIL HD",✦●✦ NEWS ✦●✦
-http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/355443.m3u8
-#EXTINF:-1 tvg-id="cnnbrasil.br" tvg-name="BR| CNN BRASIL HD" tvg-logo="https://lo1.in/BR/cnnbrs.png" group-title="AM | BRAZIL HD",BR| CNN BRASIL HD
-http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/162326.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BR| CNN INTERNACIONAL HD" tvg-logo="https://lo1.in/BR/cnnint.png" group-title="AM | BRAZIL HD",BR| CNN INTERNACIONAL HD
-http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/360177.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BR| GLOBO BRASILIA HD" tvg-logo="https://lo1.in/BR/glbbr.png" group-title="AM | BRAZIL HD",BR| GLOBO BRASILIA HD
-http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/162393.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BR| GLOBO EPTV CAMPINAS HD" tvg-logo="https://lo1.in/BR/glboca.png" group-title="AM | BRAZIL HD",BR| GLOBO EPTV CAMPINAS HD
-http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/162396.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BR| GLOBO EPTV SAO CARLOS HD" tvg-logo="https://lo1.in/BR/glboca.png" group-title="AM | BRAZIL HD",BR| GLOBO EPTV SAO CARLOS HD
-http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/162399.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BR| GLOBO NSC FLORIANOPOLIS HD" tvg-logo="https://lo1.in/BR/glbo.png" group-title="AM | BRAZIL HD",BR| GLOBO NSC FLORIANOPOLIS HD
-http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/331225.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BR| GLOBO MINAS HD" tvg-logo="https://lo1.in/BR/globi.png" group-title="AM | BRAZIL HD",BR| GLOBO MINAS HD
-http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/162405.m3u8
-#EXTINF:-1 tvg-id="globonews.br" tvg-name="BR| GLOBO NEWS HD" tvg-logo="https://lo1.in/BR/globi.png" group-title="AM | BRAZIL HD",BR| GLOBO NEWS HD
-http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/162406.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BR| GLOBO NORDESTE HD" tvg-logo="https://lo1.in/BR/globi.png" group-title="AM | BRAZIL HD",BR| GLOBO NORDESTE HD
-http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/162407.m3u8
-#EXTINF:-1 tvg-id="globoportoalegre.br" tvg-name="BR| GLOBO RBS PORTO ALEGRE HD" tvg-logo="https://lo1.in/BR/globi.png" group-title="AM | BRAZIL HD",BR| GLOBO RBS PORTO ALEGRE HD
-http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/162409.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BR| GLOBO RIO GRANDE DO NORTE HD" tvg-logo="https://lo1.in/BR/globi.png" group-title="AM | BRAZIL HD",BR| GLOBO RIO GRANDE DO NORTE HD
-http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/162412.m3u8
-#EXTINF:-1 tvg-id="globorj.br" tvg-name="BR| GLOBO RJ HD" tvg-logo="https://lo1.in/BR/globi.png" group-title="AM | BRAZIL HD",BR| GLOBO RJ HD
-http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/162413.m3u8
-#EXTINF:-1 tvg-id="globosp.br" tvg-name="BR| GLOBO SP HD" tvg-logo="https://lo1.in/BR/glbo.png" group-title="AM | BRAZIL HD",BR| GLOBO SP HD
-http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/331224.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BR| GLOBO TV BELEM HD" tvg-logo="https://lo1.in/BR/globi.png" group-title="AM | BRAZIL HD",BR| GLOBO TV BELEM HD
-http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/162418.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BR| GLOBO TV HD" tvg-logo="https://lo1.in/BR/glbo.png" group-title="AM | BRAZIL HD",BR| GLOBO TV HD
-http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/331227.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BR| GLOBO TV PORTUGAL HD" tvg-logo="https://lo1.in/BR/glbo.png" group-title="AM | BRAZIL HD",BR| GLOBO TV PORTUGAL HD
-http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/331226.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BR| GLOBO TV SERGIPE HD" tvg-logo="https://lo1.in/BR/globi.png" group-title="AM | BRAZIL HD",BR| GLOBO TV SERGIPE HD
-http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/162420.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BR| GLOBOSAT HD" tvg-logo="https://lo1.in/BR/glbst0.png" group-title="AM | BRAZIL HD",BR| GLOBOSAT HD
-http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/162427.m3u8
-#EXTINF:-1 tvg-id="globotvinternacional.br" tvg-name="BR| GLOBO INTERNACIONAL HD" tvg-logo="https://lo1.in/BR/globi.png" group-title="AM | BRAZIL HD",BR| GLOBO INTERNACIONAL HD
-http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/162403.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BR| GLOBO RPC TV HD" tvg-logo="https://lo1.in/BR/globi.png" group-title="AM | BRAZIL HD",BR| GLOBO RPC TV HD
-http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/162415.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BR| GLOBO BAURU HD" tvg-logo="https://lo1.in/BR/flag.png" group-title="AM | BRAZIL HD",BR| GLOBO BAURU HD
-http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/37416.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BR| GLOBO BAHIA" tvg-logo="https://lo1.in/BR/glbo.png" group-title="AM | BRAZIL HD",BR| GLOBO BAHIA
-http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/53102.m3u8
-#EXTINF:-1 tvg-id="gloob.br" tvg-name="BR| GLOOB HD" tvg-logo="https://lo1.in/BR/glb.png" group-title="AM | BRAZIL HD",BR| GLOOB HD
-http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/162428.m3u8
-#EXTINF:-1 tvg-id="ratimbum.br" tvg-name="BR| TV RA TIM BUM HD" tvg-logo="https://lo1.in/BR/ratim.png" group-title="AM | BRAZIL HD",BR| TV RA TIM BUM HD
-http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/162549.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="✦●✦ BRAZIL FHD✦●✦" tvg-logo="https://lo1.in/BR/flag.png" group-title="AM | BRAZIL FHD",✦●✦ BRAZIL FHD✦●✦
-http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/171282.m3u8
-#EXTINF:-1 tvg-id="aande.br" tvg-name="BR| A&E FHD" tvg-logo="https://lo1.in/BR/ane.png" group-title="AM | BRAZIL FHD",BR| A&E FHD
-http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/162298.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TH| MALIMAR LAO AND THAI MUSIC" tvg-logo="https://lo1.in/tha/flg.png" group-title="AS | THAILLAND",TH| MALIMAR LAO AND THAI MUSIC
-http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/162304.m3u8
-#EXTINF:-1 tvg-id="arte1.br" tvg-name="BR| ARTE 1 FHD" tvg-logo="https://lo1.in/BR/art.png" group-title="AM | BRAZIL FHD",BR| ARTE 1 FHD
-http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/162306.m3u8
-#EXTINF:-1 tvg-id="axn.br" tvg-name="BR| AXN FHD" tvg-logo="https://lo1.in/BR/axn.png" group-title="AM | BRAZIL FHD",BR| AXN FHD
-http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/162307.m3u8
-#EXTINF:-1 tvg-id="bis.br" tvg-name="BR| BIS FHD" tvg-logo="https://lo1.in/BR/bis.png" group-title="AM | BRAZIL FHD",BR| BIS FHD
-http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/162314.m3u8
-#EXTINF:-1 tvg-id="canalbrasil.br" tvg-name="BR| CANAL BRASIL FHD" tvg-logo="https://lo1.in/BR/cnlbrs.png" group-title="AM | BRAZIL FHD",BR| CANAL BRASIL FHD
-http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/171267.m3u8
-#EXTINF:-1 tvg-id="sony.br" tvg-name="BR| CANAL SONY FHD" tvg-logo="https://lo1.in/BR/sny.png" group-title="AM | BRAZIL FHD",BR| CANAL SONY FHD
-http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/162318.m3u8
-#EXTINF:-1 tvg-id="cartoonnetwork.br" tvg-name="BR| CARTOONITO FHD" tvg-logo="https://lo1.in/BR/crtnet.png" group-title="AM | BRAZIL FHD",BR| CARTOONITO FHD
-http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/162322.m3u8
-#EXTINF:-1 tvg-id="cinemax.br" tvg-name="BR| CINEMAX FHD" tvg-logo="https://lo1.in/BR/cinmx.png" group-title="AM | BRAZIL FHD",BR| CINEMAX FHD
-http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/162325.m3u8
-#EXTINF:-1 tvg-id="combate.br" tvg-name="BR| COMBATE FHD" tvg-logo="https://lo1.in/BR/combt.png" group-title="AM | BRAZIL FHD",BR| COMBATE FHD
-http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/162328.m3u8
-#EXTINF:-1 tvg-id="comedycentral.br" tvg-name="BR| COMEDY CENTRAL FHD" tvg-logo="https://lo1.in/BR/cmdcnt.png" group-title="AM | BRAZIL FHD",BR| COMEDY CENTRAL FHD
-http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/162330.m3u8
-#EXTINF:-1 tvg-id="discoverchannel.br" tvg-name="BR| DISCOVERY CHANNEL FHD" tvg-logo="https://lo1.in/BR/disch.png" group-title="AM | BRAZIL FHD",BR| DISCOVERY CHANNEL FHD
-http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/162339.m3u8
-#EXTINF:-1 tvg-id="discoveryhomehealth.br" tvg-name="BR| DISCOVERY  H&amp;H FHD" tvg-logo="https://lo1.in/BR/dish.png" group-title="AM | BRAZIL FHD",BR| DISCOVERY  H&amp;H FHD
-http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/162342.m3u8
-#EXTINF:-1 tvg-id="discoverykids.br" tvg-name="BR| DISCOVERY KIDS FHD" tvg-logo="https://lo1.in/BR/diskds.png" group-title="AM | BRAZIL FHD",BR| DISCOVERY KIDS FHD
-http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/162343.m3u8
-#EXTINF:-1 tvg-id="discoverytheater.br" tvg-name="BR| DISCOVERY THEATER FHD" tvg-logo="https://lo1.in/BR/disthe.png" group-title="AM | BRAZIL FHD",BR| DISCOVERY THEATER FHD
-http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/162345.m3u8
-#EXTINF:-1 tvg-id="tlc.br" tvg-name="BR| DISCOVERY TLC FHD" tvg-logo="https://lo1.in/BR/distlc.png" group-title="AM | BRAZIL FHD",BR| DISCOVERY TLC FHD
-http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/162518.m3u8
-#EXTINF:-1 tvg-id="discoveryturbo.br" tvg-name="BR| DISCOVERY TURBO FHD" tvg-logo="https://lo1.in/BR/distrb.png" group-title="AM | BRAZIL FHD",BR| DISCOVERY TURBO FHD
-http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/162347.m3u8
-#EXTINF:-1 tvg-id="discoveryworld.br" tvg-name="BR| DISCOVERY WORLD FHD" tvg-logo="https://lo1.in/BR/diswrd.png" group-title="AM | BRAZIL FHD",BR| DISCOVERY WORLD FHD
-http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/162348.m3u8
-#EXTINF:-1 tvg-id="disney.br" tvg-name="BR| DISNEY CHANNEL FHD" tvg-logo="https://lo1.in/BR/dsych.png" group-title="AM | BRAZIL FHD",BR| DISNEY CHANNEL FHD
-http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/162349.m3u8
-#EXTINF:-1 tvg-id="disneyjunior.br" tvg-name="BR| DISNEY JR FHD" tvg-logo="https://lo1.in/BR/nkjnr.png" group-title="AM | BRAZIL FHD",BR| DISNEY JR FHD
-http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/162350.m3u8
-#EXTINF:-1 tvg-id="fishtv.br" tvg-name="BR| FISH TV FHD" tvg-logo="https://lo1.in/BR/fish.png" group-title="AM | BRAZIL FHD",BR| FISH TV FHD
-http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/162370.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BR| FONTE TV FHD" tvg-logo="https://lo1.in/BR/font.png" group-title="AM | BRAZIL FHD",BR| FONTE TV FHD
-http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/162372.m3u8
-#EXTINF:-1 tvg-id="fox.br" tvg-name="BR| FOX FHD" tvg-logo="https://lo1.in/BR/fox.png" group-title="AM | BRAZIL FHD",BR| FOX FHD
-http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/162375.m3u8
-#EXTINF:-1 tvg-id="foxsports2.br" tvg-name="BR| FOX SPORTS 2 FHD" tvg-logo="https://lo1.in/BR/fxsp.png" group-title="AM | BRAZIL FHD",BR| FOX SPORTS 2 FHD
-http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/162379.m3u8
-#EXTINF:-1 tvg-id="foxsports.br" tvg-name="BR| FOX SPORTS FHD" tvg-logo="https://lo1.in/BR/fxsp.png" group-title="AM | BRAZIL FHD",BR| FOX SPORTS FHD
-http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/162382.m3u8
-#EXTINF:-1 tvg-id="fx.br" tvg-name="BR| FX FHD" tvg-logo="https://lo1.in/BR/fx.png" group-title="AM | BRAZIL FHD",BR| FX FHD
-http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/162387.m3u8
-#EXTINF:-1 tvg-id="gloob.br" tvg-name="BR| GLOOB FHD" tvg-logo="https://lo1.in/BR/glb.png" group-title="AM | BRAZIL FHD",BR| GLOOB FHD
-http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/171260.m3u8
-#EXTINF:-1 tvg-id="globonews.br" tvg-name="BR| GLOBO NEWS FHD" tvg-logo="https://lo1.in/BR/globi.png" group-title="AM | BRAZIL FHD",BR| GLOBO NEWS FHD
-http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/171279.m3u8
-#EXTINF:-1 tvg-id="globosp.br" tvg-name="BR| GLOBO SP FHD" tvg-logo="https://lo1.in/BR/globi.png" group-title="AM | BRAZIL FHD",BR| GLOBO SP FHD
-http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/162416.m3u8
-#EXTINF:-1 tvg-id="gnt.br" tvg-name="BR| GNT FHD" tvg-logo="https://lo1.in/BR/gnt.png" group-title="AM | BRAZIL FHD",BR| GNT FHD
-http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/162430.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BR| JOVEM PAN News FHD" tvg-logo="https://lo1.in/BR/flag.png" group-title="AM | BRAZIL FHD",BR| JOVEM PAN News FHD
-http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/42802.m3u8
-#EXTINF:-1 tvg-id="hbo2.br" tvg-name="BR| HBO 2 FHD" tvg-logo="https://lo1.in/BR/hbo2.png" group-title="AM | BRAZIL FHD",BR| HBO 2 FHD
-http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/162433.m3u8
-#EXTINF:-1 tvg-id="hbofamily.br" tvg-name="BR| HBO FAMILY FHD" tvg-logo="https://lo1.in/BR/hbofm.png" group-title="AM | BRAZIL FHD",BR| HBO FAMILY FHD
-http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/162435.m3u8
-#EXTINF:-1 tvg-id="hbo.br" tvg-name="BR| HBO FHD" tvg-logo="https://lo1.in/BR/hbo.png" group-title="AM | BRAZIL FHD",BR| HBO FHD
-http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/162436.m3u8
-#EXTINF:-1 tvg-id="hboplusbrasil.br" tvg-name="BR| HBO PLUS FHD" tvg-logo="https://lo1.in/BR/hbopl.png" group-title="AM | BRAZIL FHD",BR| HBO PLUS FHD
-http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/162437.m3u8
-#EXTINF:-1 tvg-id="hbosignature.br" tvg-name="BR| HBO SIGNATURE FHD" tvg-logo="https://lo1.in/BR/hbosignat.png" group-title="AM | BRAZIL FHD",BR| HBO SIGNATURE FHD
-http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/162438.m3u8
-#EXTINF:-1 tvg-id="lifetime.br" tvg-name="BR| LIFE TIME FHD" tvg-logo="https://lo1.in/BR/lftm.png" group-title="AM | BRAZIL FHD",BR| LIFE TIME FHD
-http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/162445.m3u8
-#EXTINF:-1 tvg-id="maxbrasil.br" tvg-name="BR| HBO MUNDI FHD" tvg-logo="https://lo1.in/BR/hbom.png" group-title="AM | BRAZIL FHD",BR| HBO MUNDI FHD
-http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/162448.m3u8
-#EXTINF:-1 tvg-id="maxprimebrasil.br" tvg-name="BR| HBO XTREME FHD" tvg-logo="https://lo1.in/BR/hboxtr.png" group-title="AM | BRAZIL FHD",BR| HBO XTREME FHD
-http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/162449.m3u8
-#EXTINF:-1 tvg-id="maxup.br" tvg-name="BR| HBO POP FHD" tvg-logo="https://lo1.in/BR/hbopo.png" group-title="AM | BRAZIL FHD",BR| HBO POP FHD
-http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/162453.m3u8
-#EXTINF:-1 tvg-id="megapix.br" tvg-name="BR| MEGA PIX FHD" tvg-logo="https://lo1.in/BR/megapx.png" group-title="AM | BRAZIL FHD",BR| MEGA PIX FHD
-http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/162454.m3u8
-#EXTINF:-1 tvg-id="mtv.br" tvg-name="BR| MTV BRAZIL FHD" tvg-logo="https://lo1.in/BR/mtvbr.png" group-title="AM | BRAZIL FHD",BR| MTV BRAZIL FHD
-http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/162455.m3u8
-#EXTINF:-1 tvg-id="nationalgeographic.br" tvg-name="BR| NAT GEO FHD" tvg-logo="https://lo1.in/BR/natgeo.png" group-title="AM | BRAZIL FHD",BR| NAT GEO FHD
-http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/162458.m3u8
-#EXTINF:-1 tvg-id="natgeokids.br" tvg-name="BR| NAT GEO KIDS FHD" tvg-logo="https://lo1.in/BR/natgeok.png" group-title="AM | BRAZIL FHD",BR| NAT GEO KIDS FHD
-http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/162459.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BR| NOVA ERA TV FHD" tvg-logo="https://lo1.in/BR/novaer.png" group-title="AM | BRAZIL FHD",BR| NOVA ERA TV FHD
-http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/397468.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BR| PREMIER FHD" tvg-logo="https://lo1.in/BR/prm.png" group-title="AM | BRAZIL FHD",BR| PREMIER FHD
-http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/162467.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BR| RECORD SP FHD" tvg-logo="https://lo1.in/BR/rcord.png" group-title="AM | BRAZIL FHD",BR| RECORD SP FHD
-http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/162488.m3u8
-#EXTINF:-1 tvg-id="sbt.br" tvg-name="BR| SBT FHD" tvg-logo="https://lo1.in/BR/sbt.png" group-title="AM | BRAZIL FHD",BR| SBT FHD
-http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/171292.m3u8
-#EXTINF:-1 tvg-id="sportv2.br" tvg-name="BR| SPORTV 2 FHD" tvg-logo="https://lo1.in/BR/spt2.png" group-title="AM | BRAZIL FHD",BR| SPORTV 2 FHD
-http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/162502.m3u8
-#EXTINF:-1 tvg-id="sportv3.br" tvg-name="BR| SPORTV 3 FHD" tvg-logo="https://lo1.in/BR/spt3.png" group-title="AM | BRAZIL FHD",BR| SPORTV 3 FHD
-http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/162503.m3u8
-#EXTINF:-1 tvg-id="sportv.br" tvg-name="BR| SPORTV FHD" tvg-logo="https://lo1.in/BR/sp.png" group-title="AM | BRAZIL FHD",BR| SPORTV FHD
-http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/162504.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TH| LOOK THOONG TV HD" tvg-logo="https://lo1.in/tha/flg.png" group-title="AS | THAILLAND",TH| LOOK THOONG TV HD
-http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/162527.m3u8
-#EXTINF:-1 tvg-id="telecineaction.br" tvg-name="BR| TELECINE ACTION FHD" tvg-logo="https://lo1.in/BR/telact.png" group-title="AM | BRAZIL FHD",BR| TELECINE ACTION FHD
-http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/162510.m3u8
-#EXTINF:-1 tvg-id="telecinefun.br" tvg-name="BR| TELECINE FUN FHD" tvg-logo="https://lo1.in/BR/telcef.png" group-title="AM | BRAZIL FHD",BR| TELECINE FUN FHD
-http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/162512.m3u8
-#EXTINF:-1 tvg-id="telecinepipoca.br" tvg-name="BR| TELECINE PIPOCA FHD" tvg-logo="https://lo1.in/BR/telpipo.png" group-title="AM | BRAZIL FHD",BR| TELECINE PIPOCA FHD
-http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/162513.m3u8
-#EXTINF:-1 tvg-id="telecinepremium.br" tvg-name="BR| TELECINE PREMIUM FHD" tvg-logo="https://lo1.in/BR/telcnpr.png" group-title="AM | BRAZIL FHD",BR| TELECINE PREMIUM FHD
-http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/162514.m3u8
-#EXTINF:-1 tvg-id="telecinetouch.br" tvg-name="BR| TELECINE TOUCH FHD" tvg-logo="https://lo1.in/BR/telcnto.png" group-title="AM | BRAZIL FHD",BR| TELECINE TOUCH FHD
-http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/162515.m3u8
-#EXTINF:-1 tvg-id="tnt.br" tvg-name="BR| TNT FHD" tvg-logo="https://lo1.in/BR/tnt.png" group-title="AM | BRAZIL FHD",BR| TNT FHD
-http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/162519.m3u8
-#EXTINF:-1 tvg-id="tntseries.br" tvg-name="BR| TNT SERIES FHD" tvg-logo="https://lo1.in/BR/tntser.png" group-title="AM | BRAZIL FHD",BR| TNT SERIES FHD
-http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/162520.m3u8
-#EXTINF:-1 tvg-id="tooncast.br" tvg-name="BR| TOONCAST FHD" tvg-logo="https://lo1.in/BR/tonc.png" group-title="AM | BRAZIL FHD",BR| TOONCAST FHD
-http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/162521.m3u8
-#EXTINF:-1 tvg-id="tvaparecida.br" tvg-name="BR| TV APARECIDA FHD" tvg-logo="https://lo1.in/BR/apra.png" group-title="AM | BRAZIL FHD",BR| TV APARECIDA FHD
-http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/331233.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BR| TV EDUCATIVA DE PORTO ALEGRE FHD" tvg-logo="https://lo1.in/BR/edutoa.png" group-title="AM | BRAZIL FHD",BR| TV EDUCATIVA DE PORTO ALEGRE FHD
-http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/397466.m3u8
-#EXTINF:-1 tvg-id="tvgazeta.br" tvg-name="BR| TV GAZETA FHD" tvg-logo="https://lo1.in/BR/tgaze.png" group-title="AM | BRAZIL FHD",BR| TV GAZETA FHD
-http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/162538.m3u8
-#EXTINF:-1 tvg-id="novotempo.br" tvg-name="BR| TV NOVO TEMPO FHD" tvg-logo="https://lo1.in/BR/novotem.png" group-title="AM | BRAZIL FHD",BR| TV NOVO TEMPO FHD
-http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/380045.m3u8
-#EXTINF:-1 tvg-id="universal.br" tvg-name="BR| UNIVERSAL TV FHD" tvg-logo="https://lo1.in/BR/univ.png" group-title="AM | BRAZIL FHD",BR| UNIVERSAL TV FHD
-http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/380041.m3u8
-#EXTINF:-1 tvg-id="viva.br" tvg-name="BR| VIVA FHD" tvg-logo="https://lo1.in/BR/viva.png" group-title="AM | BRAZIL FHD",BR| VIVA FHD
-http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/162560.m3u8
-#EXTINF:-1 tvg-id="warnerchannel.br" tvg-name="BR| WARNER BROS FHD" tvg-logo="https://lo1.in/BR/warnch.png" group-title="AM | BRAZIL FHD",BR| WARNER BROS FHD
-http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/162561.m3u8
-#EXTINF:-1 tvg-id="woohoo.br" tvg-name="BR| WOHOO FHD" tvg-logo="https://lo1.in/BR/woho.png" group-title="AM | BRAZIL FHD",BR| WOHOO FHD
-http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/162562.m3u8
-#EXTINF:-1 tvg-id="zoomoo.br" tvg-name="BR| ZOOMOO FHD" tvg-logo="https://lo1.in/BR/zomo.png" group-title="AM | BRAZIL FHD",BR| ZOOMOO FHD
-http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/162564.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BR| GLOBO RBS PORTO ALEGRE FHD" tvg-logo="https://lo1.in/BR/globi.png" group-title="AM | BRAZIL FHD",BR| GLOBO RBS PORTO ALEGRE FHD
-http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/162410.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BR| RECORD AMAZONAS FHD" tvg-logo="https://lo1.in/BR/rcodamz.png" group-title="AM | BRAZIL FHD",BR| RECORD AMAZONAS FHD
-http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/162478.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BR| BAND CAMPINAS FHD" tvg-logo="https://lo1.in/BR/band.png" group-title="AM | BRAZIL FHD",BR| BAND CAMPINAS FHD
-http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/162310.m3u8
-#EXTINF:-1 tvg-id="telecinecult.br" tvg-name="BR| TELECINE CULT FHD" tvg-logo="https://lo1.in/BR/telcu.png" group-title="AM | BRAZIL FHD",BR| TELECINE CULT FHD
-http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/162511.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BR| TRAVEL BOX FHD" tvg-logo="https://lo1.in/BR/trvbx.png" group-title="AM | BRAZIL FHD",BR| TRAVEL BOX FHD
-http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/162522.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BR| PARAMOUNT+ 01 FHD" tvg-logo="https://lo1.in/BR/paramch.png" group-title="AM | BRAZIL FHD",BR| PARAMOUNT+ 01 FHD
-http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/52283.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BR| PARAMOUNT+ 02 FHD" tvg-logo="https://lo1.in/BR/paramch.png" group-title="AM | BRAZIL FHD",BR| PARAMOUNT+ 02 FHD
-http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/52282.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BR| PARAMOUNT+ 03 FHD" tvg-logo="https://lo1.in/BR/paramch.png" group-title="AM | BRAZIL FHD",BR| PARAMOUNT+ 03 FHD
-http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/52281.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BR| PARAMOUNT+ 04 FHD" tvg-logo="https://lo1.in/BR/paramch.png" group-title="AM | BRAZIL FHD",BR| PARAMOUNT+ 04 FHD
-http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/52280.m3u8
+#EXTINF:-1,PT: SPORT TV 2 HD(1)
+http://premium-iptv.link:6969/live/ace/WFCQBW46kP/159.ts
+#EXTINF:-1,PT:SPORT TV 1 HD
+http://premium-iptv.link:6969/live/ace/WFCQBW46kP/160.ts
+#EXTINF:-1,PT: VH1 CLASSIC
+http://premium-iptv.link:6969/live/ace/WFCQBW46kP/4293.ts
+#EXTINF:-1,PT: VH1
+http://premium-iptv.link:6969/live/ace/WFCQBW46kP/3945.ts
+#EXTINF:-1,PT: TVI Reality (A Quinta)
+http://premium-iptv.link:6969/live/ace/WFCQBW46kP/3946.ts
+#EXTINF:-1,PT: TVI REALITY
+http://premium-iptv.link:6969/live/ace/WFCQBW46kP/3974.ts
+#EXTINF:-1,PT: TVI 24
+http://premium-iptv.link:6969/live/ace/WFCQBW46kP/3947.ts
+#EXTINF:-1,PT: TVI
+http://premium-iptv.link:6969/live/ace/WFCQBW46kP/3948.ts
+#EXTINF:-1,PT: TVCseries
+http://premium-iptv.link:6969/live/ace/WFCQBW46kP/3949.ts
+#EXTINF:-1,PT: TVC HD
+http://premium-iptv.link:6969/live/ace/WFCQBW46kP/4294.ts
+#EXTINF:-1,PT: TV RECORD
+http://premium-iptv.link:6969/live/ace/WFCQBW46kP/3950.ts
+#EXTINF:-1,PT: TV Globo Premium
+http://premium-iptv.link:6969/live/ace/WFCQBW46kP/3951.ts
+#EXTINF:-1,PT: TV GLOBO
+http://premium-iptv.link:6969/live/ace/WFCQBW46kP/3952.ts
+#EXTINF:-1,PT: TV CINE 4
+http://premium-iptv.link:6969/live/ace/WFCQBW46kP/3990.ts
+#EXTINF:-1,PT: TV CINE 3 HD
+http://premium-iptv.link:6969/live/ace/WFCQBW46kP/3989.ts
+#EXTINF:-1,PT: TV CINE 2  HD
+http://premium-iptv.link:6969/live/ace/WFCQBW46kP/3988.ts
+#EXTINF:-1,PT: TV CINE 1  HD
+http://premium-iptv.link:6969/live/ace/WFCQBW46kP/3987.ts
+#EXTINF:-1,PT: TOUROS TV
+http://premium-iptv.link:6969/live/ace/WFCQBW46kP/3953.ts
+#EXTINF:-1,PT: TLC
+http://premium-iptv.link:6969/live/ace/WFCQBW46kP/3954.ts
+#EXTINF:-1,PT: SYFY
+http://premium-iptv.link:6969/live/ace/WFCQBW46kP/3933.ts
+#EXTINF:-1,PT: SPORTING TV
+http://premium-iptv.link:6969/live/ace/WFCQBW46kP/3991.ts
+#EXTINF:-1,PT: SPORT TV 5HD
+http://premium-iptv.link:6969/live/ace/WFCQBW46kP/2496.ts
+#EXTINF:-1,PT: SPORT TV 5
+http://premium-iptv.link:6969/live/ace/WFCQBW46kP/3997.ts
+#EXTINF:-1,PT: SPORT TV 4HD
+http://premium-iptv.link:6969/live/ace/WFCQBW46kP/2495.ts
+#EXTINF:-1,PT: SPORT TV 4
+http://premium-iptv.link:6969/live/ace/WFCQBW46kP/3995.ts
+#EXTINF:-1,PT: SPORT TV 3 HD
+http://premium-iptv.link:6969/live/ace/WFCQBW46kP/3994.ts
+#EXTINF:-1,PT: SPORT TV 2 HD
+http://premium-iptv.link:6969/live/ace/WFCQBW46kP/3993.ts
+#EXTINF:-1,PT: SPORT TV 1 HD
+http://premium-iptv.link:6969/live/ace/WFCQBW46kP/3992.ts
+#EXTINF:-1,PT: SIC RADICAL
+http://premium-iptv.link:6969/live/ace/WFCQBW46kP/3934.ts
+#EXTINF:-1,PT: SIC NOTICIAS
+http://premium-iptv.link:6969/live/ace/WFCQBW46kP/3935.ts
+#EXTINF:-1,PT: SIC MULHER
+http://premium-iptv.link:6969/live/ace/WFCQBW46kP/3955.ts
+#EXTINF:-1,PT: Sic
+http://premium-iptv.link:6969/live/ace/WFCQBW46kP/3998.ts
+#EXTINF:-1,PT: RTP MEMÓRIA
+http://premium-iptv.link:6969/live/ace/WFCQBW46kP/3956.ts
+#EXTINF:-1,PT: RTP ÁFRICA
+http://premium-iptv.link:6969/live/ace/WFCQBW46kP/3957.ts
+#EXTINF:-1,PT: RTP AÇORES
+http://premium-iptv.link:6969/live/ace/WFCQBW46kP/3958.ts
+#EXTINF:-1,PT: RTP 3
+http://premium-iptv.link:6969/live/ace/WFCQBW46kP/3986.ts
+#EXTINF:-1,PT: RTP 2
+http://premium-iptv.link:6969/live/ace/WFCQBW46kP/3999.ts
+#EXTINF:-1,PT: RTP 1
+http://premium-iptv.link:6969/live/ace/WFCQBW46kP/4000.ts
+#EXTINF:-1,PT: PORTO CANAL
+http://premium-iptv.link:6969/live/ace/WFCQBW46kP/3936.ts
+#EXTINF:-1,PT: PFC
+http://premium-iptv.link:6969/live/ace/WFCQBW46kP/3959.ts
+#EXTINF:-1,PT: ODISSEIA
+http://premium-iptv.link:6969/live/ace/WFCQBW46kP/3960.ts
+#EXTINF:-1,PT: NICKELODEON
+http://premium-iptv.link:6969/live/ace/WFCQBW46kP/3961.ts
+#EXTINF:-1,PT: Nat Geo Wild
+http://premium-iptv.link:6969/live/ace/WFCQBW46kP/3962.ts
+#EXTINF:-1,PT: NATIONAL GEOGRAPHIC
+http://premium-iptv.link:6969/live/ace/WFCQBW46kP/3963.ts
+#EXTINF:-1,PT: MTV PORTUGAL
+http://premium-iptv.link:6969/live/ace/WFCQBW46kP/4295.ts
+#EXTINF:-1,PT: Mtv Portuga
+http://premium-iptv.link:6969/live/ace/WFCQBW46kP/3941.ts
+#EXTINF:-1,PT: MOV HD
+http://premium-iptv.link:6969/live/ace/WFCQBW46kP/4001.ts
+#EXTINF:-1,PT: MOTORVISION TV
+http://premium-iptv.link:6969/live/ace/WFCQBW46kP/934.ts
+#EXTINF:-1,PT: MOTORVISION
+http://premium-iptv.link:6969/live/ace/WFCQBW46kP/4296.ts
+#EXTINF:-1,PT: MOTORS TV
+http://premium-iptv.link:6969/live/ace/WFCQBW46kP/3964.ts
+#EXTINF:-1,PT: JIM JAM
+http://premium-iptv.link:6969/live/ace/WFCQBW46kP/4297.ts
+#EXTINF:-1,PT: HOLLYWOOD
+http://premium-iptv.link:6969/live/ace/WFCQBW46kP/3937.ts
+#EXTINF:-1,PT: GLOBO
+http://premium-iptv.link:6969/live/ace/WFCQBW46kP/4298.ts
+#EXTINF:-1,PT: FUEL TV
+http://premium-iptv.link:6969/live/ace/WFCQBW46kP/4299.ts
+#EXTINF:-1,PT: FOX TV
+http://premium-iptv.link:6969/live/ace/WFCQBW46kP/3938.ts
+#EXTINF:-1,PT: FOX MOVIES
+http://premium-iptv.link:6969/live/ace/WFCQBW46kP/3996.ts
+#EXTINF:-1,PT: FOX LIFE
+http://premium-iptv.link:6969/live/ace/WFCQBW46kP/3939.ts
+#EXTINF:-1,PT: FOX CRIME
+http://premium-iptv.link:6969/live/ace/WFCQBW46kP/3940.ts
+#EXTINF:-1,PT: Fox Comedy
+http://premium-iptv.link:6969/live/ace/WFCQBW46kP/3965.ts
+#EXTINF:-1,PT: EUROSPORT
+http://premium-iptv.link:6969/live/ace/WFCQBW46kP/3942.ts
+#EXTINF:-1,PT: E! Entertainment
+http://premium-iptv.link:6969/live/ace/WFCQBW46kP/3966.ts
+#EXTINF:-1,PT: DISNEY JUNIOR
+http://premium-iptv.link:6969/live/ace/WFCQBW46kP/3967.ts
+#EXTINF:-1,PT: DISNEY CHANNEL
+http://premium-iptv.link:6969/live/ace/WFCQBW46kP/3968.ts
+#EXTINF:-1,PT: Discovery HD Showcase
+http://premium-iptv.link:6969/live/ace/WFCQBW46kP/3969.ts
+#EXTINF:-1,PT: DISCOVERY CHANNEL
+http://premium-iptv.link:6969/live/ace/WFCQBW46kP/3970.ts
+#EXTINF:-1,PT: CM TV
+http://premium-iptv.link:6969/live/ace/WFCQBW46kP/3971.ts
+#EXTINF:-1,PT: CINEMUNDO
+http://premium-iptv.link:6969/live/ace/WFCQBW46kP/3972.ts
+#EXTINF:-1,UK: CHELSEA TV
+http://premium-iptv.link:6969/live/ace/WFCQBW46kP/3973.ts
+#EXTINF:-1,PT: CBS REALITY
+http://premium-iptv.link:6969/live/ace/WFCQBW46kP/4300.ts
+#EXTINF:-1,PT: CARTOON  NETWORK
+http://premium-iptv.link:6969/live/ace/WFCQBW46kP/4301.ts
+#EXTINF:-1,PT: CANAL Q
+http://premium-iptv.link:6969/live/ace/WFCQBW46kP/3975.ts
+#EXTINF:-1,PT: CANAL PANDA
+http://premium-iptv.link:6969/live/ace/WFCQBW46kP/3976.ts
+#EXTINF:-1,PT: CANAL HISTÓRIA
+http://premium-iptv.link:6969/live/ace/WFCQBW46kP/3977.ts
+#EXTINF:-1,PT: CAÇA & PESCA
+http://premium-iptv.link:6969/live/ace/WFCQBW46kP/3978.ts
+#EXTINF:-1,PT: BENFICA TV 2
+http://premium-iptv.link:6969/live/ace/WFCQBW46kP/3943.ts
+#EXTINF:-1,PT: BENFICA TV 1
+http://premium-iptv.link:6969/live/ace/WFCQBW46kP/3944.ts
+#EXTINF:-1,PT: BABY TV
+http://premium-iptv.link:6969/live/ace/WFCQBW46kP/3979.ts
+#EXTINF:-1,PT: AXN WHITE
+http://premium-iptv.link:6969/live/ace/WFCQBW46kP/3984.ts
+#EXTINF:-1,PT: AXN
+http://premium-iptv.link:6969/live/ace/WFCQBW46kP/3985.ts
+#EXTINF:-1,PT: AMC
+http://premium-iptv.link:6969/live/ace/WFCQBW46kP/3980.ts
+#EXTINF:-1,PT: A BOLA TV
+http://premium-iptv.link:6969/live/ace/WFCQBW46kP/3981.ts
+#EXTINF:-1,PT: A & E
+http://premium-iptv.link:6969/live/ace/WFCQBW46kP/3982.ts
+#EXTINF:-1,PT: 24 KITCHEN
+http://premium-iptv.link:6969/live/ace/WFCQBW46kP/3983.ts
+#EXTINF:-1,PT:  Historia
+http://premium-iptv.link:6969/live/ace/WFCQBW46kP/4302.ts
+#EXTINF:-1,PT:  Fox Crime
+http://premium-iptv.link:6969/live/ace/WFCQBW46kP/4303.ts
+#EXTINF:-1,PT: RTP MADEIRA
+http://premium-iptv.link:6969/live/ace/WFCQBW46kP/6622.ts
+#EXTINF:-1,PT: AMC HD 1080
+http://premium-iptv.link:6969/live/ace/WFCQBW46kP/7034.ts
+#EXTINF:-1,PT: AXN BLACK HD 1080
+http://premium-iptv.link:6969/live/ace/WFCQBW46kP/7031.ts
+#EXTINF:-1,PT: AXN HD 1080
+http://premium-iptv.link:6969/live/ace/WFCQBW46kP/7033.ts
+#EXTINF:-1,PT: AXN WHITE HD 1080
+http://premium-iptv.link:6969/live/ace/WFCQBW46kP/7032.ts
+#EXTINF:-1,PT: BTV 1 HD 1080
+http://premium-iptv.link:6969/live/ace/WFCQBW46kP/7039.ts
+#EXTINF:-1,PT: EUROSPORT 1 HD 1080
+http://premium-iptv.link:6969/live/ace/WFCQBW46kP/7047.ts
+#EXTINF:-1,PT: FIGHT NETWORK HD 1080
+http://premium-iptv.link:6969/live/ace/WFCQBW46kP/7046.ts
+#EXTINF:-1,PT: FOX Comedy HD 1080
+http://premium-iptv.link:6969/live/ace/WFCQBW46kP/7027.ts
+#EXTINF:-1,PT: FOX CRIME HD 1080
+http://premium-iptv.link:6969/live/ace/WFCQBW46kP/7028.ts
+#EXTINF:-1,PT: FOX HD 1080
+http://premium-iptv.link:6969/live/ace/WFCQBW46kP/7030.ts
+#EXTINF:-1,PT: FOX LIFE HD 1080
+http://premium-iptv.link:6969/live/ace/WFCQBW46kP/7029.ts
+#EXTINF:-1,PT: FUEL TV HD 1080
+http://premium-iptv.link:6969/live/ace/WFCQBW46kP/7045.ts
+#EXTINF:-1,PT: SIC NOTICIAS HD 1080
+http://premium-iptv.link:6969/live/ace/WFCQBW46kP/7053.ts
+#EXTINF:-1,PT: SIC RADICAL HD 1080
+http://premium-iptv.link:6969/live/ace/WFCQBW46kP/7052.ts
+#EXTINF:-1,PT: SPORT TV+
+http://premium-iptv.link:6969/live/ace/WFCQBW46kP/7050.ts
+#EXTINF:-1,PT: SPORT TV+  HD 1080
+http://premium-iptv.link:6969/live/ace/WFCQBW46kP/7051.ts
+#EXTINF:-1,PT: SPORT TV 1 HD 1080
+http://premium-iptv.link:6969/live/ace/WFCQBW46kP/7049.ts
+#EXTINF:-1,PT: SPORT TV 2 HD 1080
+http://premium-iptv.link:6969/live/ace/WFCQBW46kP/7043.ts
+#EXTINF:-1,PT: SPORT TV 3 HD 1080
+http://premium-iptv.link:6969/live/ace/WFCQBW46kP/7042.ts
+#EXTINF:-1,PT: SPORT TV 4 HD 1080
+http://premium-iptv.link:6969/live/ace/WFCQBW46kP/7041.ts
+#EXTINF:-1,PT: SPORT TV 5 HD 1080
+http://premium-iptv.link:6969/live/ace/WFCQBW46kP/7040.ts
+#EXTINF:-1,PT: Sporting TV HD 1080
+http://premium-iptv.link:6969/live/ace/WFCQBW46kP/7048.ts
+#EXTINF:-1,PT: SyFy HD 1080
+http://premium-iptv.link:6969/live/ace/WFCQBW46kP/7026.ts
+#EXTINF:-1,PT: TVCINE 1 HD 1080
+http://premium-iptv.link:6969/live/ace/WFCQBW46kP/7038.ts
+#EXTINF:-1,PT: TVCINE 2 HD 1080
+http://premium-iptv.link:6969/live/ace/WFCQBW46kP/7037.ts
+#EXTINF:-1,PT: TVCINE 3 HD 1080
+http://premium-iptv.link:6969/live/ace/WFCQBW46kP/7036.ts
+#EXTINF:-1,PT: TVCINE 4 HD 1080
+http://premium-iptv.link:6969/live/ace/WFCQBW46kP/7035.ts
+#EXTINF:-1,PT: SPORT TV 3HD
+http://premium-iptv.link:6969/live/ace/WFCQBW46kP/158.ts
+#EXTINF:-1,PT: Eurosport new
+http://premium-iptv.link:6969/live/ace/WFCQBW46kP/28.ts
+#EXTINF:-1,PT: Eurosport 1
+http://premium-iptv.link:6969/live/ace/WFCQBW46kP/27.ts
+
+#EXTINF:-1,PT: FUEL TV
+http://212.232.29.250:8000/live/YVr6M356UD/sl5MjtqFVs/2328.ts
+#EXTINF:-1,PT:A BOLA TV
+http://212.232.29.250:8000/live/YVr6M356UD/sl5MjtqFVs/2327.ts
+#EXTINF:-1,PT:AXN BLACK HD
+http://212.232.29.250:8000/live/YVr6M356UD/sl5MjtqFVs/2342.ts
+#EXTINF:-1,PT:AXN HD
+http://212.232.29.250:8000/live/YVr6M356UD/sl5MjtqFVs/2344.ts
+#EXTINF:-1,PT:AXN WHITE HD
+http://212.232.29.250:8000/live/YVr6M356UD/sl5MjtqFVs/2343.ts
+#EXTINF:-1,PT:BENFICA TV HD
+http://212.232.29.250:8000/live/YVr6M356UD/sl5MjtqFVs/2305.ts
+#EXTINF:-1,PT:CANAL PANDA
+http://212.232.29.250:8000/live/YVr6M356UD/sl5MjtqFVs/2319.ts
+#EXTINF:-1,PT:CARTOON NETWORK
+http://212.232.29.250:8000/live/YVr6M356UD/sl5MjtqFVs/2315.ts
+#EXTINF:-1,PT:CINEMUNDO
+http://212.232.29.250:8000/live/YVr6M356UD/sl5MjtqFVs/2331.ts
+#EXTINF:-1,PT:DISCOVERY HD
+http://212.232.29.250:8000/live/YVr6M356UD/sl5MjtqFVs/2312.ts
+#EXTINF:-1,PT:DISCOVERY SHOWCASE HD
+http://212.232.29.250:8000/live/YVr6M356UD/sl5MjtqFVs/2309.ts
+#EXTINF:-1,PT:DISNEY CHANNEL HD
+http://212.232.29.250:8000/live/YVr6M356UD/sl5MjtqFVs/2316.ts
+#EXTINF:-1,PT:DISNEY JUNIOR HD
+http://212.232.29.250:8000/live/YVr6M356UD/sl5MjtqFVs/2317.ts
+#EXTINF:-1,PT:EUROSPORT 1
+http://212.232.29.250:8000/live/YVr6M356UD/sl5MjtqFVs/2304.ts
+#EXTINF:-1,PT:EUROSPORT 2
+http://212.232.29.250:8000/live/YVr6M356UD/sl5MjtqFVs/2303.ts
+#EXTINF:-1,PT:FOX COMEDY HD
+http://212.232.29.250:8000/live/YVr6M356UD/sl5MjtqFVs/2337.ts
+#EXTINF:-1,PT:FOX CRIME HD
+http://212.232.29.250:8000/live/YVr6M356UD/sl5MjtqFVs/2339.ts
+#EXTINF:-1,PT:FOX HD
+http://212.232.29.250:8000/live/YVr6M356UD/sl5MjtqFVs/2341.ts
+#EXTINF:-1,PT:FOX LIFE HD
+http://212.232.29.250:8000/live/YVr6M356UD/sl5MjtqFVs/2340.ts
+#EXTINF:-1,PT:FOX MOVIES HD
+http://212.232.29.250:8000/live/YVr6M356UD/sl5MjtqFVs/2338.ts
+#EXTINF:-1,PT:HISTORIA HD
+http://212.232.29.250:8000/live/YVr6M356UD/sl5MjtqFVs/2313.ts
+#EXTINF:-1,PT:HOLLYWOOD HD
+http://212.232.29.250:8000/live/YVr6M356UD/sl5MjtqFVs/2336.ts
+#EXTINF:-1,PT:MOTORS TV
+http://212.232.29.250:8000/live/YVr6M356UD/sl5MjtqFVs/2307.ts
+#EXTINF:-1,PT:NAT GEO WILD HD
+http://212.232.29.250:8000/live/YVr6M356UD/sl5MjtqFVs/2311.ts
+#EXTINF:-1,PT:NAT GEOGRAPHIC HD
+http://212.232.29.250:8000/live/YVr6M356UD/sl5MjtqFVs/2310.ts
+#EXTINF:-1,PT:NICKELODEON HD
+http://212.232.29.250:8000/live/YVr6M356UD/sl5MjtqFVs/2318.ts
+#EXTINF:-1,PT:PANDA PIGGS HD
+http://212.232.29.250:8000/live/YVr6M356UD/sl5MjtqFVs/2325.ts
+#EXTINF:-1,PT:PORTO CANAL
+http://212.232.29.250:8000/live/YVr6M356UD/sl5MjtqFVs/2326.ts
+#EXTINF:-1,PT:RTP 1 HD
+http://212.232.29.250:8000/live/YVr6M356UD/sl5MjtqFVs/2360.ts
+#EXTINF:-1,PT:RTP 2 HD
+http://212.232.29.250:8000/live/YVr6M356UD/sl5MjtqFVs/2359.ts
+#EXTINF:-1,PT:RTP 3 HD
+http://212.232.29.250:8000/live/YVr6M356UD/sl5MjtqFVs/2358.ts
+#EXTINF:-1,PT:RTP AFRICA
+http://212.232.29.250:8000/live/YVr6M356UD/sl5MjtqFVs/2357.ts
+#EXTINF:-1,PT:RTP MEMORIA
+http://212.232.29.250:8000/live/YVr6M356UD/sl5MjtqFVs/2355.ts
+#EXTINF:-1,PT:SIC
+http://212.232.29.250:8000/live/YVr6M356UD/sl5MjtqFVs/2353.ts
+#EXTINF:-1,PT:SIC CARAS HD
+http://212.232.29.250:8000/live/YVr6M356UD/sl5MjtqFVs/2349.ts
+#EXTINF:-1,PT:SIC KIDS
+http://212.232.29.250:8000/live/YVr6M356UD/sl5MjtqFVs/2352.ts
+#EXTINF:-1,PT:SIC NOTICIAS
+http://212.232.29.250:8000/live/YVr6M356UD/sl5MjtqFVs/2350.ts
+#EXTINF:-1,PT:SPORT TV 1 HD
+http://212.232.29.250:8000/live/YVr6M356UD/sl5MjtqFVs/2302.ts
+#EXTINF:-1,PT:SPORT TV 2 HD
+http://212.232.29.250:8000/live/YVr6M356UD/sl5MjtqFVs/2301.ts
+#EXTINF:-1,PT:SPORT TV 3 HD
+http://212.232.29.250:8000/live/YVr6M356UD/sl5MjtqFVs/2300.ts
+#EXTINF:-1,PT:SPORT TV 4 HD
+http://212.232.29.250:8000/live/YVr6M356UD/sl5MjtqFVs/2299.ts
+#EXTINF:-1,PT:SPORT TV 5 HD
+http://212.232.29.250:8000/live/YVr6M356UD/sl5MjtqFVs/2298.ts
+#EXTINF:-1,PT:SPORTING TV HD
+http://212.232.29.250:8000/live/YVr6M356UD/sl5MjtqFVs/2297.ts
+#EXTINF:-1,PT:SYFY
+http://212.232.29.250:8000/live/YVr6M356UD/sl5MjtqFVs/2335.ts
+#EXTINF:-1,PT:TVCINE 1 HD
+http://212.232.29.250:8000/live/YVr6M356UD/sl5MjtqFVs/2323.ts
+#EXTINF:-1,PT:TVCINE 2 HD
+http://212.232.29.250:8000/live/YVr6M356UD/sl5MjtqFVs/2322.ts
+#EXTINF:-1,PT:TVCINE 3 HD
+http://212.232.29.250:8000/live/YVr6M356UD/sl5MjtqFVs/2321.ts
+#EXTINF:-1,PT:TVCINE 4 HD
+http://212.232.29.250:8000/live/YVr6M356UD/sl5MjtqFVs/2320.ts
+#EXTINF:-1,PT:TVI
+http://212.232.29.250:8000/live/YVr6M356UD/sl5MjtqFVs/2348.ts
+#EXTINF:-1,PT:TVI 24 HD
+http://212.232.29.250:8000/live/YVr6M356UD/sl5MjtqFVs/2347.ts
+#EXTINF:-1,PT:TVI FACCAO
+http://212.232.29.250:8000/live/YVr6M356UD/sl5MjtqFVs/2345.ts
+#EXTINF:-1,PT:TVI REALITY HD
+http://212.232.29.250:8000/live/YVr6M356UD/sl5MjtqFVs/2346.ts
+#EXTINF:-1,PT:VH 1 HD
+http://212.232.29.250:8000/live/YVr6M356UD/sl5MjtqFVs/2329.ts
+
+#EXTINF:-1,|PT| RTP 1 HD
+http://94.102.57.135:8000/live/1b3StbJgtn/Y6YHSXcldA/4407.ts
+#EXTINF:-1,|PT| RTP 2
+http://94.102.57.135:8000/live/1b3StbJgtn/Y6YHSXcldA/4408.ts
+#EXTINF:-1,|PT| RTP 3
+http://94.102.57.135:8000/live/1b3StbJgtn/Y6YHSXcldA/4409.ts
+#EXTINF:-1,|PT| SIC
+http://94.102.57.135:8000/live/1b3StbJgtn/Y6YHSXcldA/4416.ts
+#EXTINF:-1,|PT| TVI
+http://94.102.57.135:8000/live/1b3StbJgtn/Y6YHSXcldA/4424.ts
+#EXTINF:-1,|PT| TVI REALITY
+http://94.102.57.135:8000/live/1b3StbJgtn/Y6YHSXcldA/4448.ts
+#EXTINF:-1,|PT| SIC NOTICIAS
+http://94.102.57.135:8000/live/1b3StbJgtn/Y6YHSXcldA/4417.ts
+#EXTINF:-1,|PT| TVI 24
+http://94.102.57.135:8000/live/1b3StbJgtn/Y6YHSXcldA/4423.ts
+#EXTINF:-1,|PT| SIC MULHER
+http://94.102.57.135:8000/live/1b3StbJgtn/Y6YHSXcldA/4418.ts
+#EXTINF:-1,|PT| SIC RADICAL
+http://94.102.57.135:8000/live/1b3StbJgtn/Y6YHSXcldA/4420.ts
+#EXTINF:-1,|PT| RTP MEMORIA
+http://94.102.57.135:8000/live/1b3StbJgtn/Y6YHSXcldA/4468.ts
+#EXTINF:-1,|PT| RTP ÁFRICA
+http://94.102.57.135:8000/live/1b3StbJgtn/Y6YHSXcldA/4410.ts
+#EXTINF:-1,|PT| RTP MADEIRA
+http://94.102.57.135:8000/live/1b3StbJgtn/Y6YHSXcldA/4411.ts
+#EXTINF:-1,|PT| RTP ACORES
+http://94.102.57.135:8000/live/1b3StbJgtn/Y6YHSXcldA/4412.ts
+#EXTINF:-1,|PT| RTP INTERNACIONAL
+http://94.102.57.135:8000/live/1b3StbJgtn/Y6YHSXcldA/8531.ts
+#EXTINF:-1,|PT| FOX LIFE
+http://94.102.57.135:8000/live/1b3StbJgtn/Y6YHSXcldA/4404.ts
+#EXTINF:-1,|PT| DOG TV
+http://94.102.57.135:8000/live/1b3StbJgtn/Y6YHSXcldA/4444.ts
+#EXTINF:-1,|PT| TV CINE 1
+http://94.102.57.135:8000/live/1b3StbJgtn/Y6YHSXcldA/4386.ts
+#EXTINF:-1,|PT| TV CINE 2
+http://94.102.57.135:8000/live/1b3StbJgtn/Y6YHSXcldA/4387.ts
+#EXTINF:-1,|PT| TV CINE 3
+http://94.102.57.135:8000/live/1b3StbJgtn/Y6YHSXcldA/4388.ts
+#EXTINF:-1,|PT| TV CINE 4
+http://94.102.57.135:8000/live/1b3StbJgtn/Y6YHSXcldA/4389.ts
+#EXTINF:-1,|PT| TV SERIES
+http://94.102.57.135:8000/live/1b3StbJgtn/Y6YHSXcldA/4425.ts
+#EXTINF:-1,|PT| HOLLYWOOD
+http://94.102.57.135:8000/live/1b3StbJgtn/Y6YHSXcldA/4413.ts
+#EXTINF:-1,|PT| AMC
+http://94.102.57.135:8000/live/1b3StbJgtn/Y6YHSXcldA/4445.ts
+#EXTINF:-1,|PT| FOX CRIME HD
+http://94.102.57.135:8000/live/1b3StbJgtn/Y6YHSXcldA/4415.ts
+#EXTINF:-1,|PT| DISNEY JUNIOR
+http://94.102.57.135:8000/live/1b3StbJgtn/Y6YHSXcldA/4455.ts
+#EXTINF:-1,|PT| CANAL PANDA
+http://94.102.57.135:8000/live/1b3StbJgtn/Y6YHSXcldA/4450.ts
+#EXTINF:-1,|PT| SIC KIDS
+http://94.102.57.135:8000/live/1b3StbJgtn/Y6YHSXcldA/4458.ts
+#EXTINF:-1,|PT| CARTOON NETWORK
+http://94.102.57.135:8000/live/1b3StbJgtn/Y6YHSXcldA/4457.ts
+#EXTINF:-1,|PT| PANDA BIGGS
+http://94.102.57.135:8000/live/1b3StbJgtn/Y6YHSXcldA/4454.ts
+#EXTINF:-1,|PT| NICKELODEON
+http://94.102.57.135:8000/live/1b3StbJgtn/Y6YHSXcldA/4459.ts
+#EXTINF:-1,|PT| JIMJAM
+http://94.102.57.135:8000/live/1b3StbJgtn/Y6YHSXcldA/4453.ts
+#EXTINF:-1,|PT| ABOLA TV
+http://94.102.57.135:8000/live/1b3StbJgtn/Y6YHSXcldA/4438.ts
+#EXTINF:-1,|PT| BABY TV
+http://94.102.57.135:8000/live/1b3StbJgtn/Y6YHSXcldA/17564.ts
+#EXTINF:-1,|PT| DISNEY CHANNEL
+http://94.102.57.135:8000/live/1b3StbJgtn/Y6YHSXcldA/17563.ts
+#EXTINF:-1,|PT| TVI FICCAO
+http://94.102.57.135:8000/live/1b3StbJgtn/Y6YHSXcldA/4397.ts
+#EXTINF:-1,|PT| SPORTING TV HD
+http://94.102.57.135:8000/live/1b3StbJgtn/Y6YHSXcldA/4400.ts
+#EXTINF:-1,|PT| PORTO CANAL
+http://94.102.57.135:8000/live/1b3StbJgtn/Y6YHSXcldA/4434.ts
+#EXTINF:-1,|PT| MOTORVISION HD
+http://94.102.57.135:8000/live/1b3StbJgtn/Y6YHSXcldA/4461.ts
+#EXTINF:-1,|PT| MOTORS TV
+http://94.102.57.135:8000/live/1b3StbJgtn/Y6YHSXcldA/4403.ts
+#EXTINF:-1,|PT| FUEL TV
+http://94.102.57.135:8000/live/1b3StbJgtn/Y6YHSXcldA/4439.ts
+#EXTINF:-1,|PT| TOROS TV
+http://94.102.57.135:8000/live/1b3StbJgtn/Y6YHSXcldA/4428.ts
+#EXTINF:-1,|PT| ODISSEIA
+http://94.102.57.135:8000/live/1b3StbJgtn/Y6YHSXcldA/4422.ts
+#EXTINF:-1,|PT| NATIONAL GEOGRAPHIC
+http://94.102.57.135:8000/live/1b3StbJgtn/Y6YHSXcldA/4460.ts
+#EXTINF:-1,|PT| NAT GEO WILD
+http://94.102.57.135:8000/live/1b3StbJgtn/Y6YHSXcldA/4466.ts
+#EXTINF:-1,|PT| CAçA E PESCA
+http://94.102.57.135:8000/live/1b3StbJgtn/Y6YHSXcldA/4442.ts
+#EXTINF:-1,|PT| DISCOVERY SHOWCASE
+http://94.102.57.135:8000/live/1b3StbJgtn/Y6YHSXcldA/4463.ts
+#EXTINF:-1,|PT| DISCOVERY CHANNEL
+http://94.102.57.135:8000/live/1b3StbJgtn/Y6YHSXcldA/4467.ts
+#EXTINF:-1,|PT| TLC
+http://94.102.57.135:8000/live/1b3StbJgtn/Y6YHSXcldA/4437.ts
+#EXTINF:-1,|PT| TRAVEL CHANNEL
+http://94.102.57.135:8000/live/1b3StbJgtn/Y6YHSXcldA/4469.ts
+#EXTINF:-1,|PT| TRACE URBAN
+http://94.102.57.135:8000/live/1b3StbJgtn/Y6YHSXcldA/4456.ts
+#EXTINF:-1,|PT| SYFY HD
+http://94.102.57.135:8000/live/1b3StbJgtn/Y6YHSXcldA/4429.ts
+#EXTINF:-1,|PT| SIC CARAS
+http://94.102.57.135:8000/live/1b3StbJgtn/Y6YHSXcldA/4419.ts
+#EXTINF:-1,|PT| NBA HD
+http://94.102.57.135:8000/live/1b3StbJgtn/Y6YHSXcldA/4436.ts
+#EXTINF:-1,|PT| MTV
+http://94.102.57.135:8000/live/1b3StbJgtn/Y6YHSXcldA/4470.ts
+#EXTINF:-1,|PT| FOX MOVIES HD
+http://94.102.57.135:8000/live/1b3StbJgtn/Y6YHSXcldA/4430.ts
+#EXTINF:-1,|PT| FOX COMEDY
+http://94.102.57.135:8000/live/1b3StbJgtn/Y6YHSXcldA/4435.ts
+#EXTINF:-1,|PT| FOX HD
+http://94.102.57.135:8000/live/1b3StbJgtn/Y6YHSXcldA/4421.ts
+#EXTINF:-1,|PT| CINE MUNDO
+http://94.102.57.135:8000/live/1b3StbJgtn/Y6YHSXcldA/4405.ts
+#EXTINF:-1,|PT| CMTV HD
+http://94.102.57.135:8000/live/1b3StbJgtn/Y6YHSXcldA/4406.ts
+#EXTINF:-1,|PT| CBS REALITY
+http://94.102.57.135:8000/live/1b3StbJgtn/Y6YHSXcldA/4462.ts
+#EXTINF:-1,PT 24 KITCHEN HD
+http://94.102.57.135:8000/live/1b3StbJgtn/Y6YHSXcldA/2993.ts
+#EXTINF:-1,|PT| BTV HD
+http://94.102.57.135:8000/live/1b3StbJgtn/Y6YHSXcldA/4465.ts
+#EXTINF:-1,|PT| CANçAO NOVA
+http://94.102.57.135:8000/live/1b3StbJgtn/Y6YHSXcldA/4440.ts
+#EXTINF:-1,|PT| CANAL Q
+http://94.102.57.135:8000/live/1b3StbJgtn/Y6YHSXcldA/4414.ts
+#EXTINF:-1,|PT| CAçAVISION
+http://94.102.57.135:8000/live/1b3StbJgtn/Y6YHSXcldA/4441.ts
+#EXTINF:-1,|PT| S TV
+http://94.102.57.135:8000/live/1b3StbJgtn/Y6YHSXcldA/4471.ts
+#EXTINF:-1,|PT| AXN HD
+http://94.102.57.135:8000/live/1b3StbJgtn/Y6YHSXcldA/4432.ts
+#EXTINF:-1,|PT| AXN WHITE HD
+http://94.102.57.135:8000/live/1b3StbJgtn/Y6YHSXcldA/4431.ts
+#EXTINF:-1,|PT| AXN BLACK HD
+http://94.102.57.135:8000/live/1b3StbJgtn/Y6YHSXcldA/4433.ts
+#EXTINF:-1,|PT| AE
+http://94.102.57.135:8000/live/1b3StbJgtn/Y6YHSXcldA/4446.ts
+#EXTINF:-1,|PT| TV RECORD
+http://94.102.57.135:8000/live/1b3StbJgtn/Y6YHSXcldA/4426.ts
+#EXTINF:-1,|PT| RECORD NEWS
+http://94.102.57.135:8000/live/1b3StbJgtn/Y6YHSXcldA/4464.ts
+#EXTINF:-1,|PT| TV GLOBO
+http://94.102.57.135:8000/live/1b3StbJgtn/Y6YHSXcldA/4427.ts
+#EXTINF:-1,|PT| TV GLOBO PREMIUM
+http://94.102.57.135:8000/live/1b3StbJgtn/Y6YHSXcldA/4895.ts
+#EXTINF:-1,PT: BTV
+http://94.102.57.135:8000/live/1b3StbJgtn/Y6YHSXcldA/27112.ts
+#EXTINF:-1,PT: sport+
+http://94.102.57.135:8000/live/1b3StbJgtn/Y6YHSXcldA/27110.ts
+#EXTINF:-1,PT: sport1
+http://94.102.57.135:8000/live/1b3StbJgtn/Y6YHSXcldA/26600.ts
+#EXTINF:-1,PT: sport2
+http://94.102.57.135:8000/live/1b3StbJgtn/Y6YHSXcldA/26601.ts
+#EXTINF:-1,PT: sport3
+http://94.102.57.135:8000/live/1b3StbJgtn/Y6YHSXcldA/26603.ts
+#EXTINF:-1,PT: sport4
+http://94.102.57.135:8000/live/1b3StbJgtn/Y6YHSXcldA/26606.ts
+#EXTINF:-1,PT: sport5
+http://94.102.57.135:8000/live/1b3StbJgtn/Y6YHSXcldA/27111.ts
+#EXTINF:-1,BR1: Arte 1
+http://94.102.57.135:8000/live/1b3StbJgtn/Y6YHSXcldA/26502.ts
+#EXTINF:-1,BR1: Band
+http://94.102.57.135:8000/live/1b3StbJgtn/Y6YHSXcldA/26501.ts
+#EXTINF:-1,BR1: Band News
+http://94.102.57.135:8000/live/1b3StbJgtn/Y6YHSXcldA/26500.ts
+#EXTINF:-1,BR1: Canal Brasil
+http://94.102.57.135:8000/live/1b3StbJgtn/Y6YHSXcldA/26453.ts
+#EXTINF:-1,BR1: Globo MG
+http://94.102.57.135:8000/live/1b3StbJgtn/Y6YHSXcldA/26496.ts
+#EXTINF:-1,BR1: Globo News
+http://94.102.57.135:8000/live/1b3StbJgtn/Y6YHSXcldA/26499.ts
+#EXTINF:-1,BR1: Globo Nordeste
+http://94.102.57.135:8000/live/1b3StbJgtn/Y6YHSXcldA/26495.ts
+#EXTINF:-1,BR1: Globo RJ
+http://94.102.57.135:8000/live/1b3StbJgtn/Y6YHSXcldA/26497.ts
+#EXTINF:-1,BR1: Globo SP
+http://94.102.57.135:8000/live/1b3StbJgtn/Y6YHSXcldA/26498.ts
+#EXTINF:-1,BR1: Gloob
+http://94.102.57.135:8000/live/1b3StbJgtn/Y6YHSXcldA/26493.ts
+#EXTINF:-1,BR1: Mais Globo Sa
+http://94.102.57.135:8000/live/1b3StbJgtn/Y6YHSXcldA/26494.ts
+#EXTINF:-1,BR1: Record News
+http://94.102.57.135:8000/live/1b3StbJgtn/Y6YHSXcldA/26492.ts
+#EXTINF:-1,BR1: Rede TV
+http://94.102.57.135:8000/live/1b3StbJgtn/Y6YHSXcldA/26491.ts
+#EXTINF:-1,BR1: TV Brasil
+http://94.102.57.135:8000/live/1b3StbJgtn/Y6YHSXcldA/26490.ts
+#EXTINF:-1,BR1: Tv Diario
+http://94.102.57.135:8000/live/1b3StbJgtn/Y6YHSXcldA/26489.ts
+#EXTINF:-1,BR1: TV Escola
+http://94.102.57.135:8000/live/1b3StbJgtn/Y6YHSXcldA/26488.ts
+#EXTINF:-1,BR1: Woohoo Brasil
+http://94.102.57.135:8000/live/1b3StbJgtn/Y6YHSXcldA/26487.ts
+#EXTINF:-1,BR2: Eimax 1 Sport
+http://94.102.57.135:8000/live/1b3StbJgtn/Y6YHSXcldA/26483.ts
+#EXTINF:-1,BR2: Eimax 2 Sport
+http://94.102.57.135:8000/live/1b3StbJgtn/Y6YHSXcldA/26482.ts
+#EXTINF:-1,BR2: ESPN 2
+http://94.102.57.135:8000/live/1b3StbJgtn/Y6YHSXcldA/26480.ts
+#EXTINF:-1,BR2: ESPN Brasil Sport
+http://94.102.57.135:8000/live/1b3StbJgtn/Y6YHSXcldA/26481.ts
+#EXTINF:-1,BR2: Fox Sports
+http://94.102.57.135:8000/live/1b3StbJgtn/Y6YHSXcldA/26478.ts
+#EXTINF:-1,BR2: Fox Sports 2
+http://94.102.57.135:8000/live/1b3StbJgtn/Y6YHSXcldA/26477.ts
+#EXTINF:-1,BR2: PFC
+http://94.102.57.135:8000/live/1b3StbJgtn/Y6YHSXcldA/26476.ts
+#EXTINF:-1,BR2: Premiere 2
+http://94.102.57.135:8000/live/1b3StbJgtn/Y6YHSXcldA/26474.ts
+#EXTINF:-1,BR2: Premiere 3
+http://94.102.57.135:8000/live/1b3StbJgtn/Y6YHSXcldA/26473.ts
+#EXTINF:-1,BR2: Premiere Clubes HD
+http://94.102.57.135:8000/live/1b3StbJgtn/Y6YHSXcldA/26475.ts
+#EXTINF:-1,BR2: SporTV
+http://94.102.57.135:8000/live/1b3StbJgtn/Y6YHSXcldA/26472.ts
+#EXTINF:-1,BR2: SporTV 2
+http://94.102.57.135:8000/live/1b3StbJgtn/Y6YHSXcldA/26471.ts
+#EXTINF:-1,BR2: SporTV 3
+http://94.102.57.135:8000/live/1b3StbJgtn/Y6YHSXcldA/26470.ts
+#EXTINF:-1,BR2: Band Sports
+http://94.102.57.135:8000/live/1b3StbJgtn/Y6YHSXcldA/26485.ts
+#EXTINF:-1,BR2: Combate
+http://94.102.57.135:8000/live/1b3StbJgtn/Y6YHSXcldA/26484.ts
+#EXTINF:-1,BR2: Fish TV
+http://94.102.57.135:8000/live/1b3StbJgtn/Y6YHSXcldA/26479.ts
+#EXTINF:-1,BR3: Discovery Channel
+http://94.102.57.135:8000/live/1b3StbJgtn/Y6YHSXcldA/26466.ts
+#EXTINF:-1,BR3: Discovery Civilization
+http://94.102.57.135:8000/live/1b3StbJgtn/Y6YHSXcldA/26465.ts
+#EXTINF:-1,BR3: Discovery H&H
+http://94.102.57.135:8000/live/1b3StbJgtn/Y6YHSXcldA/26464.ts
+#EXTINF:-1,BR3: Discovery Kids
+http://94.102.57.135:8000/live/1b3StbJgtn/Y6YHSXcldA/26463.ts
+#EXTINF:-1,BR3: Discovery Science
+http://94.102.57.135:8000/live/1b3StbJgtn/Y6YHSXcldA/26462.ts
+#EXTINF:-1,BR3: Discovery Turbo
+http://94.102.57.135:8000/live/1b3StbJgtn/Y6YHSXcldA/26461.ts
+#EXTINF:-1,BR3: Investigação Discovery
+http://94.102.57.135:8000/live/1b3StbJgtn/Y6YHSXcldA/26460.ts
+#EXTINF:-1,BR3: The History Channel
+http://94.102.57.135:8000/live/1b3StbJgtn/Y6YHSXcldA/26467.ts
+#EXTINF:-1,BR3: National Geographic
+http://94.102.57.135:8000/live/1b3StbJgtn/Y6YHSXcldA/26468.ts
+#EXTINF:-1,BR4: AandE
+http://94.102.57.135:8000/live/1b3StbJgtn/Y6YHSXcldA/26455.ts
+#EXTINF:-1,BR4: E!
+http://94.102.57.135:8000/live/1b3StbJgtn/Y6YHSXcldA/26457.ts
+#EXTINF:-1,BR4: FX
+http://94.102.57.135:8000/live/1b3StbJgtn/Y6YHSXcldA/26456.ts
+#EXTINF:-1,BR4: TLC
+http://94.102.57.135:8000/live/1b3StbJgtn/Y6YHSXcldA/26458.ts
+#EXTINF:-1,BR5: AMC
+http://94.102.57.135:8000/live/1b3StbJgtn/Y6YHSXcldA/26450.ts
+#EXTINF:-1,BR5: Animal Planet
+http://94.102.57.135:8000/live/1b3StbJgtn/Y6YHSXcldA/26451.ts
+#EXTINF:-1,BR5: AXN
+http://94.102.57.135:8000/live/1b3StbJgtn/Y6YHSXcldA/26449.ts
+#EXTINF:-1,BR5: Canal Sony
+http://94.102.57.135:8000/live/1b3StbJgtn/Y6YHSXcldA/26452.ts
+#EXTINF:-1,BR5: Cinemax
+http://94.102.57.135:8000/live/1b3StbJgtn/Y6YHSXcldA/26448.ts
+#EXTINF:-1,BR5: FOX
+http://94.102.57.135:8000/live/1b3StbJgtn/Y6YHSXcldA/26447.ts
+#EXTINF:-1,BR5: Fox Life
+http://94.102.57.135:8000/live/1b3StbJgtn/Y6YHSXcldA/26446.ts
+#EXTINF:-1,BR5: Fox Premium
+http://94.102.57.135:8000/live/1b3StbJgtn/Y6YHSXcldA/26445.ts
+#EXTINF:-1,BR5: H2
+http://94.102.57.135:8000/live/1b3StbJgtn/Y6YHSXcldA/26444.ts
+#EXTINF:-1,BR5: HBO
+http://94.102.57.135:8000/live/1b3StbJgtn/Y6YHSXcldA/26443.ts
+#EXTINF:-1,BR5: HBO 2
+http://94.102.57.135:8000/live/1b3StbJgtn/Y6YHSXcldA/26442.ts
+#EXTINF:-1,BR5: HBO Family
+http://94.102.57.135:8000/live/1b3StbJgtn/Y6YHSXcldA/26441.ts
+#EXTINF:-1,BR5: HBO Plus
+http://94.102.57.135:8000/live/1b3StbJgtn/Y6YHSXcldA/26440.ts
+#EXTINF:-1,BR5: HBO Signature
+http://94.102.57.135:8000/live/1b3StbJgtn/Y6YHSXcldA/26439.ts
+#EXTINF:-1,BR5: Max
+http://94.102.57.135:8000/live/1b3StbJgtn/Y6YHSXcldA/26438.ts
+#EXTINF:-1,BR5: Max Prime
+http://94.102.57.135:8000/live/1b3StbJgtn/Y6YHSXcldA/26437.ts
+#EXTINF:-1,BR5: Max Up
+http://94.102.57.135:8000/live/1b3StbJgtn/Y6YHSXcldA/26436.ts
+#EXTINF:-1,BR5: MegaPix
+http://94.102.57.135:8000/live/1b3StbJgtn/Y6YHSXcldA/26435.ts
+#EXTINF:-1,BR5: Paramount
+http://94.102.57.135:8000/live/1b3StbJgtn/Y6YHSXcldA/26434.ts
+#EXTINF:-1,BR5: Studio Universal
+http://94.102.57.135:8000/live/1b3StbJgtn/Y6YHSXcldA/26433.ts
+#EXTINF:-1,BR5: Syfy
+http://94.102.57.135:8000/live/1b3StbJgtn/Y6YHSXcldA/26432.ts
+#EXTINF:-1,BR5: TCM
+http://94.102.57.135:8000/live/1b3StbJgtn/Y6YHSXcldA/26431.ts
+#EXTINF:-1,BR5: Telecine Action
+http://94.102.57.135:8000/live/1b3StbJgtn/Y6YHSXcldA/26429.ts
+#EXTINF:-1,BR5: Telecine Cult
+http://94.102.57.135:8000/live/1b3StbJgtn/Y6YHSXcldA/26428.ts
+#EXTINF:-1,BR5: Telecine Fun
+http://94.102.57.135:8000/live/1b3StbJgtn/Y6YHSXcldA/26427.ts
+#EXTINF:-1,BR5: Telecine Pipoca
+http://94.102.57.135:8000/live/1b3StbJgtn/Y6YHSXcldA/26426.ts
+#EXTINF:-1,BR5: Telecine Premium
+http://94.102.57.135:8000/live/1b3StbJgtn/Y6YHSXcldA/26425.ts
+#EXTINF:-1,BR5: Telecine Touch
+http://94.102.57.135:8000/live/1b3StbJgtn/Y6YHSXcldA/26430.ts
+#EXTINF:-1,BR5: TNT
+http://94.102.57.135:8000/live/1b3StbJgtn/Y6YHSXcldA/26424.ts
+#EXTINF:-1,BR5: TNT Series
+http://94.102.57.135:8000/live/1b3StbJgtn/Y6YHSXcldA/26423.ts
+#EXTINF:-1,BR5: Universal Channel
+http://94.102.57.135:8000/live/1b3StbJgtn/Y6YHSXcldA/26422.ts
+#EXTINF:-1,BR5: Warner Channel
+http://94.102.57.135:8000/live/1b3StbJgtn/Y6YHSXcldA/26421.ts
+
+#EXTINF:-1,PT: 1TVI_Reality
+http://samrapro.com:7766/live/ramy/rmrm1/7441.ts
+#EXTINF:-1,PT: 24_Kitchen_Portugal
+http://samrapro.com:7766/live/ramy/rmrm1/7440.ts
+#EXTINF:-1,PT: A_E_Portugal
+http://samrapro.com:7766/live/ramy/rmrm1/7439.ts
+#EXTINF:-1,PT: AMC_Portugal_HD
+http://samrapro.com:7766/live/ramy/rmrm1/7438.ts
+#EXTINF:-1,PT: AR_TV_Canal_Parlamento
+http://samrapro.com:7766/live/ramy/rmrm1/7437.ts
+#EXTINF:-1,PT: AXN_Black_Portugal
+http://samrapro.com:7766/live/ramy/rmrm1/7436.ts
+#EXTINF:-1,PT: AXN_Portugal
+http://samrapro.com:7766/live/ramy/rmrm1/7435.ts
+#EXTINF:-1,PT: AXN_White_Portugal
+http://samrapro.com:7766/live/ramy/rmrm1/7434.ts
+#EXTINF:-1,PT: BBC_Entertainment_Europe
+http://samrapro.com:7766/live/ramy/rmrm1/7433.ts
+#EXTINF:-1,PT: Benfica_TV
+http://samrapro.com:7766/live/ramy/rmrm1/7432.ts
+#EXTINF:-1,PT: Biggs
+http://samrapro.com:7766/live/ramy/rmrm1/7431.ts
+#EXTINF:-1,PT: Bloomberg_TV_Europe
+http://samrapro.com:7766/live/ramy/rmrm1/7430.ts
+#EXTINF:-1,PT: BTV_1
+http://samrapro.com:7766/live/ramy/rmrm1/7429.ts
+#EXTINF:-1,PT: Canal_Cine_Mundo
+http://samrapro.com:7766/live/ramy/rmrm1/7428.ts
+#EXTINF:-1,PT: Canal_Hollywood_Portugal
+http://samrapro.com:7766/live/ramy/rmrm1/7427.ts
+#EXTINF:-1,PT: Canal_Nos
+http://samrapro.com:7766/live/ramy/rmrm1/7426.ts
+#EXTINF:-1,PT: Canal_Panda_Portugal
+http://samrapro.com:7766/live/ramy/rmrm1/7425.ts
+#EXTINF:-1,PT: Canal_Q
+http://samrapro.com:7766/live/ramy/rmrm1/7424.ts
+#EXTINF:-1,PT: Cartoon_Network_Portugal
+http://samrapro.com:7766/live/ramy/rmrm1/7423.ts
+#EXTINF:-1,PT: CM_TV
+http://samrapro.com:7766/live/ramy/rmrm1/7422.ts
+#EXTINF:-1,PT: CNBC_Europe
+http://samrapro.com:7766/live/ramy/rmrm1/7421.ts
+#EXTINF:-1,PT: Discovery_Channel_Iberia
+http://samrapro.com:7766/live/ramy/rmrm1/7420.ts
+#EXTINF:-1,PT: Discovery_Showcase_HD
+http://samrapro.com:7766/live/ramy/rmrm1/7419.ts
+#EXTINF:-1,PT: Disney_Channel
+http://samrapro.com:7766/live/ramy/rmrm1/7418.ts
+#EXTINF:-1,PT: Disney_Junior_Portugal
+http://samrapro.com:7766/live/ramy/rmrm1/7417.ts
+#EXTINF:-1,PT: E_Europe
+http://samrapro.com:7766/live/ramy/rmrm1/7416.ts
+#EXTINF:-1,PT: EuroNews_Portugues
+http://samrapro.com:7766/live/ramy/rmrm1/7415.ts
+#EXTINF:-1,PT: Eurosport_2
+http://samrapro.com:7766/live/ramy/rmrm1/7414.ts
+#EXTINF:-1,PT: Fashion_TV_Europe
+http://samrapro.com:7766/live/ramy/rmrm1/7413.ts
+#EXTINF:-1,PT: Fox_Comedy_Portugal
+http://samrapro.com:7766/live/ramy/rmrm1/7412.ts
+#EXTINF:-1,PT: Fox_Crime_Portugal
+http://samrapro.com:7766/live/ramy/rmrm1/7411.ts
+#EXTINF:-1,PT: Fox_Life_Portugal
+http://samrapro.com:7766/live/ramy/rmrm1/7410.ts
+#EXTINF:-1,PT: Fox_Movies_Portugal
+http://samrapro.com:7766/live/ramy/rmrm1/7409.ts
+#EXTINF:-1,PT: Fox_Portugal
+http://samrapro.com:7766/live/ramy/rmrm1/7408.ts
+#EXTINF:-1,PT: Fuel_TV_Europe
+http://samrapro.com:7766/live/ramy/rmrm1/7407.ts
+#EXTINF:-1,PT: Galicia_TV_Europa
+http://samrapro.com:7766/live/ramy/rmrm1/7406.ts
+#EXTINF:-1,PT: Historia_Portugal
+http://samrapro.com:7766/live/ramy/rmrm1/7405.ts
+#EXTINF:-1,PT: MCM_Pop
+http://samrapro.com:7766/live/ramy/rmrm1/7404.ts
+#EXTINF:-1,PT: Motorvision_TV
+http://samrapro.com:7766/live/ramy/rmrm1/7403.ts
+#EXTINF:-1,PT: MTV_Portugal
+http://samrapro.com:7766/live/ramy/rmrm1/7402.ts
+#EXTINF:-1,PT: Nat_Geo_Wild
+http://samrapro.com:7766/live/ramy/rmrm1/7401.ts
+#EXTINF:-1,PT: National_Geographic
+http://samrapro.com:7766/live/ramy/rmrm1/7400.ts
+#EXTINF:-1,PT: Odisseia
+http://samrapro.com:7766/live/ramy/rmrm1/7399.ts
+#EXTINF:-1,PT: PFC_Internacional
+http://samrapro.com:7766/live/ramy/rmrm1/7398.ts
+#EXTINF:-1,PT: PO_Eurosport_1
+http://samrapro.com:7766/live/ramy/rmrm1/7396.ts
+#EXTINF:-1,PT: PO_Mezzo
+http://samrapro.com:7766/live/ramy/rmrm1/7395.ts
+#EXTINF:-1,PT: PO_Nickelodeon_Iberia
+http://samrapro.com:7766/live/ramy/rmrm1/7394.ts
+#EXTINF:-1,PT: Porto_Canal
+http://samrapro.com:7766/live/ramy/rmrm1/7393.ts
+#EXTINF:-1,PT: Record_Europa
+http://samrapro.com:7766/live/ramy/rmrm1/7392.ts
+#EXTINF:-1,PT: Record_News
+http://samrapro.com:7766/live/ramy/rmrm1/7391.ts
+#EXTINF:-1,PT: RTP_1
+http://samrapro.com:7766/live/ramy/rmrm1/7390.ts
+#EXTINF:-1,PT: RTP_2
+http://samrapro.com:7766/live/ramy/rmrm1/7389.ts
+#EXTINF:-1,PT: RTP_3
+http://samrapro.com:7766/live/ramy/rmrm1/7388.ts
+#EXTINF:-1,PT: RTP_Acores
+http://samrapro.com:7766/live/ramy/rmrm1/7387.ts
+#EXTINF:-1,PT: RTP_Africa
+http://samrapro.com:7766/live/ramy/rmrm1/7386.ts
+#EXTINF:-1,PT: RTP_Madeira
+http://samrapro.com:7766/live/ramy/rmrm1/7385.ts
+#EXTINF:-1,PT: RTP_Memoria
+http://samrapro.com:7766/live/ramy/rmrm1/7384.ts
+#EXTINF:-1,PT: SIC_Caras
+http://samrapro.com:7766/live/ramy/rmrm1/7383.ts
+#EXTINF:-1,PT: SIC_Kids
+http://samrapro.com:7766/live/ramy/rmrm1/7382.ts
+#EXTINF:-1,PT: SIC_Mulher
+http://samrapro.com:7766/live/ramy/rmrm1/7381.ts
+#EXTINF:-1,PT: SIC_Noticias
+http://samrapro.com:7766/live/ramy/rmrm1/7380.ts
+#EXTINF:-1,PT: SIC_Radical
+http://samrapro.com:7766/live/ramy/rmrm1/7379.ts
+#EXTINF:-1,PT: Sport_Tv_1
+http://samrapro.com:7766/live/ramy/rmrm1/7378.ts
+#EXTINF:-1,PT: Sport_Tv_2
+http://samrapro.com:7766/live/ramy/rmrm1/7377.ts
+#EXTINF:-1,PT: Sport_Tv_3
+http://samrapro.com:7766/live/ramy/rmrm1/7376.ts
+#EXTINF:-1,PT: Sport_TV_4
+http://samrapro.com:7766/live/ramy/rmrm1/7375.ts
+#EXTINF:-1,PT: Sport_TV_5
+http://samrapro.com:7766/live/ramy/rmrm1/7374.ts
+#EXTINF:-1,PT: Sport_TV_plus
+http://samrapro.com:7766/live/ramy/rmrm1/7373.ts
+#EXTINF:-1,PT: Sporting_TV
+http://samrapro.com:7766/live/ramy/rmrm1/7372.ts
+#EXTINF:-1,PT: SYFY
+http://samrapro.com:7766/live/ramy/rmrm1/7371.ts
+#EXTINF:-1,PT: TLC_Pan_Regional
+http://samrapro.com:7766/live/ramy/rmrm1/7370.ts
+#EXTINF:-1,PT: Travel_Channel_Europe
+http://samrapro.com:7766/live/ramy/rmrm1/7369.ts
+#EXTINF:-1,PT: TV_Cancao_Nova_Portugal
+http://samrapro.com:7766/live/ramy/rmrm1/7368.ts
+#EXTINF:-1,PT: TV_Cine_1_HD
+http://samrapro.com:7766/live/ramy/rmrm1/7367.ts
+#EXTINF:-1,PT: TV_Cine_2
+http://samrapro.com:7766/live/ramy/rmrm1/7366.ts
+#EXTINF:-1,PT: TV_Cine_3
+http://samrapro.com:7766/live/ramy/rmrm1/7365.ts
+#EXTINF:-1,PT: TV_Cine_4_HD
+http://samrapro.com:7766/live/ramy/rmrm1/7364.ts
+#EXTINF:-1,PT: TV_Globo_Portugal
+http://samrapro.com:7766/live/ramy/rmrm1/7363.ts
+#EXTINF:-1,PT: TV_Globo_Premium
+http://samrapro.com:7766/live/ramy/rmrm1/7362.ts
+#EXTINF:-1,PT: TV_Series
+http://samrapro.com:7766/live/ramy/rmrm1/7361.ts
+#EXTINF:-1,PT: TVE_Internacional_Europa
+http://samrapro.com:7766/live/ramy/rmrm1/7360.ts
+#EXTINF:-1,PT: TVI_24
+http://samrapro.com:7766/live/ramy/rmrm1/7359.ts
+#EXTINF:-1,PT: TVI_Ficcao
+http://samrapro.com:7766/live/ramy/rmrm1/7358.ts
+#EXTINF:-1,PT: VH1_Classic
+http://samrapro.com:7766/live/ramy/rmrm1/7357.ts
+
+#EXTINF:-1,[PT] TV CINE 1HD
+http://world-ipsat.com:1155/live/najib/2018/1523.ts
+#EXTINF:-1,[PT] TV CINE 2HD
+http://world-ipsat.com:1155/live/najib/2018/1524.ts
+#EXTINF:-1,[PT] TV CINE 3HD
+http://world-ipsat.com:1155/live/najib/2018/1525.ts
+#EXTINF:-1,[PT] TV CINE 4HD
+http://world-ipsat.com:1155/live/najib/2018/1526.ts
+#EXTINF:-1,[PT] HOLLYWOOD HD
+http://world-ipsat.com:1155/live/najib/2018/2120.ts
+#EXTINF:-1,[PT] TV SERIES HD
+http://world-ipsat.com:1155/live/najib/2018/2117.ts
+#EXTINF:-1,[PT] AXN HD
+http://world-ipsat.com:1155/live/najib/2018/2130.ts
+#EXTINF:-1,[PT] AXN BLACK HD
+http://world-ipsat.com:1155/live/najib/2018/2131.ts
+#EXTINF:-1,[PT] AXN WHITE HD
+http://world-ipsat.com:1155/live/najib/2018/2129.ts
+#EXTINF:-1,[PT] FOX MOVIES HD
+http://world-ipsat.com:1155/live/najib/2018/2140.ts
+#EXTINF:-1,[PT] FOX CRIME HD
+http://world-ipsat.com:1155/live/najib/2018/2128.ts
+#EXTINF:-1,[PT] FOX HD
+http://world-ipsat.com:1155/live/najib/2018/2127.ts
+#EXTINF:-1,[PT] FOX LIFE HD
+http://world-ipsat.com:1155/live/najib/2018/2126.ts
+#EXTINF:-1,[PT] FOX MOVIES HD
+http://world-ipsat.com:1155/live/najib/2018/2133.ts
+#EXTINF:-1,[PT] FOX CRIME HD
+http://world-ipsat.com:1155/live/najib/2018/2137.ts
+#EXTINF:-1,[PT] FOX COMEDY HD
+http://world-ipsat.com:1155/live/najib/2018/2135.ts
+#EXTINF:-1,[PT] SYFY HD
+http://world-ipsat.com:1155/live/najib/2018/2142.ts
+#EXTINF:-1,[PT] TLC
+http://world-ipsat.com:1155/live/najib/2018/2484.ts
+#EXTINF:-1,[PT] TVC2 HD
+http://world-ipsat.com:1155/live/najib/2018/2483.ts
+#EXTINF:-1,[PT] NATIONAL GEO
+http://world-ipsat.com:1155/live/najib/2018/2123.ts
+#EXTINF:-1,[PT] DISCOVERY HD
+http://world-ipsat.com:1155/live/najib/2018/2125.ts
+#EXTINF:-1,[PT] NAT GEO WILD HD
+http://world-ipsat.com:1155/live/najib/2018/2479.ts
+#EXTINF:-1,[PT] Nickelodeon HD
+http://world-ipsat.com:1155/live/najib/2018/2477.ts
+#EXTINF:-1,[PT] DISCOVERY SHOW CAST
+http://world-ipsat.com:1155/live/najib/2018/2124.ts
+#EXTINF:-1,[PT] CARTOON NETWORK HD
+http://world-ipsat.com:1155/live/najib/2018/2136.ts
+#EXTINF:-1,[PT] DISNEY CHANNEL HD
+http://world-ipsat.com:1155/live/najib/2018/2139.ts
+#EXTINF:-1,[PT] DISNEY JUNIOR HD
+http://world-ipsat.com:1155/live/najib/2018/2138.ts
+#EXTINF:-1,[PT] JIM JAM HD
+http://world-ipsat.com:1155/live/najib/2018/2478.ts
+#EXTINF:-1,[PT] VH1 HD
+http://world-ipsat.com:1155/live/najib/2018/2481.ts
+#EXTINF:-1,[PT] MCM POP HD
+http://world-ipsat.com:1155/live/najib/2018/2480.ts
+#EXTINF:-1,[PT] ODISSEA HD
+http://world-ipsat.com:1155/live/najib/2018/2122.ts
+#EXTINF:-1,[PT] CM TV
+http://world-ipsat.com:1155/live/najib/2018/2156.ts
+#EXTINF:-1,[PT] CANAL PANDA HD
+http://world-ipsat.com:1155/live/najib/2018/2155.ts
+#EXTINF:-1,[PT] MOTOR TV HD
+http://world-ipsat.com:1155/live/najib/2018/2141.ts
+#EXTINF:-1,[PT] RTP 1HD
+http://world-ipsat.com:1155/live/najib/2018/2152.ts
+#EXTINF:-1,[PT] RTP 2 HD
+http://world-ipsat.com:1155/live/najib/2018/2494.ts
+#EXTINF:-1,[PT] RTP 3 HD
+http://world-ipsat.com:1155/live/najib/2018/2493.ts
+#EXTINF:-1,[PT] RTP ACORES HD
+http://world-ipsat.com:1155/live/najib/2018/2492.ts
+#EXTINF:-1,[PT] RTP AFRICA HD
+http://world-ipsat.com:1155/live/najib/2018/2491.ts
+#EXTINF:-1,[PT] RTP ACORES HD
+http://world-ipsat.com:1155/live/najib/2018/2490.ts
+#EXTINF:-1,[PT] RTP MADEIRA HD
+http://world-ipsat.com:1155/live/najib/2018/2489.ts
+#EXTINF:-1,[PT] SIC HD
+http://world-ipsat.com:1155/live/najib/2018/2488.ts
+#EXTINF:-1,[PT] SIC MULHER HD
+http://world-ipsat.com:1155/live/najib/2018/2487.ts
+#EXTINF:-1,[PT] SIC NOTICIAS
+http://world-ipsat.com:1155/live/najib/2018/2486.ts
+#EXTINF:-1,[PT] RTP MEMORIA HD
+http://world-ipsat.com:1155/live/najib/2018/2485.ts
+#EXTINF:-1,[PT] SPORT TV 1HD
+http://world-ipsat.com:1155/live/najib/2018/1531.ts
+#EXTINF:-1,[PT] SPORT TV 2HD
+http://world-ipsat.com:1155/live/najib/2018/1532.ts
+#EXTINF:-1,[PT] SPORT TV 3HD
+http://world-ipsat.com:1155/live/najib/2018/1533.ts
+#EXTINF:-1,[PT] SPORT TV 4HD
+http://world-ipsat.com:1155/live/najib/2018/1534.ts
+#EXTINF:-1,[PT] SPORT TV 5HD
+http://world-ipsat.com:1155/live/najib/2018/1535.ts
+#EXTINF:-1,[PT] PORTO CANAL HD
+http://world-ipsat.com:1155/live/najib/2018/2482.ts
+#EXTINF:-1,[PT] BENIFICA TV HD
+http://world-ipsat.com:1155/live/najib/2018/1536.ts
+#EXTINF:-1,[PT] MOTORS TV HD
+http://world-ipsat.com:1155/live/najib/2018/2476.ts
+#EXTINF:-1,[PT]  MOTORVISION HD
+http://world-ipsat.com:1155/live/najib/2018/2475.ts
+
+#EXTINF:-1,,PT: Sport TV 1HD
+http://62.210.72.137:8080/live/live:mtg_2406_1/live:mtg_2406_1/905.ts
+#EXTINF:-1,,PT: Sport TV 1
+http://62.210.72.137:8080/live/live:mtg_2406_1/live:mtg_2406_1/904.ts
+#EXTINF:-1,,PT: Sport TV 2HD
+http://62.210.72.137:8080/live/live:mtg_2406_1/live:mtg_2406_1/903.ts
+#EXTINF:-1,,PT: Sport TV 2
+http://62.210.72.137:8080/live/live:mtg_2406_1/live:mtg_2406_1/902.ts
+#EXTINF:-1,,PT: Sport TV 3HD
+http://62.210.72.137:8080/live/live:mtg_2406_1/live:mtg_2406_1/901.ts
+#EXTINF:-1,,PT: Sport TV 3
+http://62.210.72.137:8080/live/live:mtg_2406_1/live:mtg_2406_1/900.ts
+#EXTINF:-1,,PT: Sport TV 4 HD
+http://62.210.72.137:8080/live/live:mtg_2406_1/live:mtg_2406_1/899.ts
+#EXTINF:-1,,PT: Sport TV 4
+http://62.210.72.137:8080/live/live:mtg_2406_1/live:mtg_2406_1/898.ts
+#EXTINF:-1,,PT: Sport TV 5 HD
+http://62.210.72.137:8080/live/live:mtg_2406_1/live:mtg_2406_1/897.ts
+#EXTINF:-1,,PT: Sport TV 5
+http://62.210.72.137:8080/live/live:mtg_2406_1/live:mtg_2406_1/896.ts
+#EXTINF:-1,,PT: Sport TV+
+http://62.210.72.137:8080/live/live:mtg_2406_1/live:mtg_2406_1/895.ts
+#EXTINF:-1,,PT: A Bola TV
+http://62.210.72.137:8080/live/live:mtg_2406_1/live:mtg_2406_1/894.ts
+#EXTINF:-1,,PT: Benfica TV HD
+http://62.210.72.137:8080/live/live:mtg_2406_1/live:mtg_2406_1/893.ts
+#EXTINF:-1,,PT: Sporting TV
+http://62.210.72.137:8080/live/live:mtg_2406_1/live:mtg_2406_1/892.ts
+#EXTINF:-1,,PT: Eurosport 1
+http://62.210.72.137:8080/live/live:mtg_2406_1/live:mtg_2406_1/891.ts
+#EXTINF:-1,,PT: Eurosport 2
+http://62.210.72.137:8080/live/live:mtg_2406_1/live:mtg_2406_1/890.ts
+#EXTINF:-1,,PT: PFC
+http://62.210.72.137:8080/live/live:mtg_2406_1/live:mtg_2406_1/889.ts
+#EXTINF:-1,,PT: Real Madrid TV
+http://62.210.72.137:8080/live/live:mtg_2406_1/live:mtg_2406_1/888.ts
+#EXTINF:-1,,PT: Chelsea TV
+http://62.210.72.137:8080/live/live:mtg_2406_1/live:mtg_2406_1/887.ts
+#EXTINF:-1,,PT: Barca TV
+http://62.210.72.137:8080/live/live:mtg_2406_1/live:mtg_2406_1/886.ts
+#EXTINF:-1,,PT: Motorvision
+http://62.210.72.137:8080/live/live:mtg_2406_1/live:mtg_2406_1/885.ts
+#EXTINF:-1,,PT: Kombat Sport
+http://62.210.72.137:8080/live/live:mtg_2406_1/live:mtg_2406_1/884.ts
+#EXTINF:-1,PT: RTP 2.
+http://62.210.72.137:8080/live/live:mtg_2406_1/live:mtg_2406_1/924.ts
+#EXTINF:-1,PT: TVI REALITY CAMERA
+http://62.210.72.137:8080/live/live:mtg_2406_1/live:mtg_2406_1/396.ts
+#EXTINF:-1,PT: TVI REALITY
+http://62.210.72.137:8080/live/live:mtg_2406_1/live:mtg_2406_1/389.ts
+#EXTINF:-1,PT: TVI FICCAO
+http://62.210.72.137:8080/live/live:mtg_2406_1/live:mtg_2406_1/378.ts
+#EXTINF:-1,PT: TVI 24
+http://62.210.72.137:8080/live/live:mtg_2406_1/live:mtg_2406_1/379.ts
+#EXTINF:-1,PT: TVI
+http://62.210.72.137:8080/live/live:mtg_2406_1/live:mtg_2406_1/377.ts
+#EXTINF:-1,PT: TVCINE 1
+http://62.210.72.137:8080/live/live:mtg_2406_1/live:mtg_2406_1/409.ts
+#EXTINF:-1,( PT )   TVCine 1
+http://62.210.72.137:8080/live/live:mtg_2406_1/live:mtg_2406_1/30.ts
+#EXTINF:-1,( PT )   TVCine 2
+http://62.210.72.137:8080/live/live:mtg_2406_1/live:mtg_2406_1/29.ts
+#EXTINF:-1,( PT )   TVCine 3
+http://62.210.72.137:8080/live/live:mtg_2406_1/live:mtg_2406_1/28.ts
+#EXTINF:-1,( PT )   TVCine 4
+http://62.210.72.137:8080/live/live:mtg_2406_1/live:mtg_2406_1/27.ts
+#EXTINF:-1,( PT )   Cine Mundo
+http://62.210.72.137:8080/live/live:mtg_2406_1/live:mtg_2406_1/26.ts
+#EXTINF:-1,( PT )   AXN
+http://62.210.72.137:8080/live/live:mtg_2406_1/live:mtg_2406_1/25.ts
+#EXTINF:-1,PT: SPORTING TV
+http://62.210.72.137:8080/live/live:mtg_2406_1/live:mtg_2406_1/405.ts
+#EXTINF:-1,PT: SPORT TV 5
+http://62.210.72.137:8080/live/live:mtg_2406_1/live:mtg_2406_1/402.ts
+#EXTINF:-1,PT: SPORT TV 4 HD
+http://62.210.72.137:8080/live/live:mtg_2406_1/live:mtg_2406_1/400.ts
+#EXTINF:-1,PT: SPORT TV 4
+http://62.210.72.137:8080/live/live:mtg_2406_1/live:mtg_2406_1/401.ts
+#EXTINF:-1,PT: SPORT TV 3 HD
+http://62.210.72.137:8080/live/live:mtg_2406_1/live:mtg_2406_1/399.ts
+#EXTINF:-1,( PT )   SPORT TV 3 UHD
+http://62.210.72.137:8080/live/live:mtg_2406_1/live:mtg_2406_1/33.ts
+#EXTINF:-1,PT: SPORT TV 2 HD
+http://62.210.72.137:8080/live/live:mtg_2406_1/live:mtg_2406_1/398.ts
+#EXTINF:-1,( PT )   SPORT TV 4 HD
+http://62.210.72.137:8080/live/live:mtg_2406_1/live:mtg_2406_1/32.ts
+#EXTINF:-1,PT: SPORT TV 1 HD
+http://62.210.72.137:8080/live/live:mtg_2406_1/live:mtg_2406_1/397.ts
+#EXTINF:-1,( PT )   SPORT TV 5 HD
+http://62.210.72.137:8080/live/live:mtg_2406_1/live:mtg_2406_1/31.ts
+#EXTINF:-1,PT: SPORT TV
+http://62.210.72.137:8080/live/live:mtg_2406_1/live:mtg_2406_1/403.ts
+#EXTINF:-1,PT: SIC RADICAL
+http://62.210.72.137:8080/live/live:mtg_2406_1/live:mtg_2406_1/380.ts
+#EXTINF:-1,PT: SIC NOTICIAS
+http://62.210.72.137:8080/live/live:mtg_2406_1/live:mtg_2406_1/381.ts
+#EXTINF:-1,PT: SIC MULHER
+http://62.210.72.137:8080/live/live:mtg_2406_1/live:mtg_2406_1/382.ts
+#EXTINF:-1,PT: SIC K
+http://62.210.72.137:8080/live/live:mtg_2406_1/live:mtg_2406_1/383.ts
+#EXTINF:-1,PT: SIC CARAS
+http://62.210.72.137:8080/live/live:mtg_2406_1/live:mtg_2406_1/384.ts
+#EXTINF:-1,PT: SIC
+http://62.210.72.137:8080/live/live:mtg_2406_1/live:mtg_2406_1/376.ts
+#EXTINF:-1,( PT )   Hollywood
+http://62.210.72.137:8080/live/live:mtg_2406_1/live:mtg_2406_1/23.ts
+#EXTINF:-1,( PT )  MCS Extreme
+http://62.210.72.137:8080/live/live:mtg_2406_1/live:mtg_2406_1/22.ts
+#EXTINF:-1,( PT )  MCS LifeStyle
+http://62.210.72.137:8080/live/live:mtg_2406_1/live:mtg_2406_1/21.ts
+#EXTINF:-1,PT: RTP MEMORIA
+http://62.210.72.137:8080/live/live:mtg_2406_1/live:mtg_2406_1/385.ts
+#EXTINF:-1,PT: RTP MADEIRA
+http://62.210.72.137:8080/live/live:mtg_2406_1/live:mtg_2406_1/386.ts
+#EXTINF:-1,PT: RTP AFRICA
+http://62.210.72.137:8080/live/live:mtg_2406_1/live:mtg_2406_1/387.ts
+#EXTINF:-1,PT: RTP AçORES
+http://62.210.72.137:8080/live/live:mtg_2406_1/live:mtg_2406_1/388.ts
+#EXTINF:-1,PT: RTP 3
+http://62.210.72.137:8080/live/live:mtg_2406_1/live:mtg_2406_1/375.ts
+#EXTINF:-1,PT: RTP 2
+http://62.210.72.137:8080/live/live:mtg_2406_1/live:mtg_2406_1/374.ts
+#EXTINF:-1,PT: RTP 1
+http://62.210.72.137:8080/live/live:mtg_2406_1/live:mtg_2406_1/373.ts
+#EXTINF:-1,PT: RECORD NEWS
+http://62.210.72.137:8080/live/live:mtg_2406_1/live:mtg_2406_1/390.ts
+#EXTINF:-1,PT: PORTO CANAL
+http://62.210.72.137:8080/live/live:mtg_2406_1/live:mtg_2406_1/393.ts
+#EXTINF:-1,PT: PFC
+http://62.210.72.137:8080/live/live:mtg_2406_1/live:mtg_2406_1/406.ts
+#EXTINF:-1,PT: GLOBO PREMIUM
+http://62.210.72.137:8080/live/live:mtg_2406_1/live:mtg_2406_1/392.ts
+#EXTINF:-1,PT: GLOBO
+http://62.210.72.137:8080/live/live:mtg_2406_1/live:mtg_2406_1/391.ts
+#EXTINF:-1,PT: EUROSPORT 2
+http://62.210.72.137:8080/live/live:mtg_2406_1/live:mtg_2406_1/408.ts
+#EXTINF:-1,PT: EUROSPORT 1 HD
+http://62.210.72.137:8080/live/live:mtg_2406_1/live:mtg_2406_1/407.ts
+#EXTINF:-1,PT: CMTV
+http://62.210.72.137:8080/live/live:mtg_2406_1/live:mtg_2406_1/394.ts
+#EXTINF:-1,PT: BENFICA TV
+http://62.210.72.137:8080/live/live:mtg_2406_1/live:mtg_2406_1/404.ts
+#EXTINF:-1,( PT )   RTP 1 TV
+http://62.210.72.137:8080/live/live:mtg_2406_1/live:mtg_2406_1/40.ts
+#EXTINF:-1,( PT )   RTP 2 TV
+http://62.210.72.137:8080/live/live:mtg_2406_1/live:mtg_2406_1/39.ts
+#EXTINF:-1,( PT )   RTP 3 TV
+http://62.210.72.137:8080/live/live:mtg_2406_1/live:mtg_2406_1/38.ts
+#EXTINF:-1,( PT )   RTP Memðria
+http://62.210.72.137:8080/live/live:mtg_2406_1/live:mtg_2406_1/37.ts
+#EXTINF:-1,( PT )   TVI TV
+http://62.210.72.137:8080/live/live:mtg_2406_1/live:mtg_2406_1/36.ts
+#EXTINF:-1,( PT )   SPORT TV 1 UHD
+http://62.210.72.137:8080/live/live:mtg_2406_1/live:mtg_2406_1/35.ts
+#EXTINF:-1,PT: A BOLA
+http://62.210.72.137:8080/live/live:mtg_2406_1/live:mtg_2406_1/395.ts
+#EXTINF:-1,( PT )   SPORT TV 2 UHD
+http://62.210.72.137:8080/live/live:mtg_2406_1/live:mtg_2406_1/34.ts
+#EXTINF:-1,PT: SIC.
+http://62.210.72.137:8080/live/live:mtg_2406_1/live:mtg_2406_1/922.ts
+#EXTINF:-1,PT: TVi.
+http://62.210.72.137:8080/live/live:mtg_2406_1/live:mtg_2406_1/921.ts
+#EXTINF:-1,PT: RTP Africa.
+http://62.210.72.137:8080/live/live:mtg_2406_1/live:mtg_2406_1/919.ts
+#EXTINF:-1,PT: SIC CARAS.
+http://62.210.72.137:8080/live/live:mtg_2406_1/live:mtg_2406_1/918.ts
+#EXTINF:-1,,PT: Sic Mulher.
+http://62.210.72.137:8080/live/live:mtg_2406_1/live:mtg_2406_1/917.ts
+#EXTINF:-1,PT: SIC Radical.
+http://62.210.72.137:8080/live/live:mtg_2406_1/live:mtg_2406_1/916.ts
+#EXTINF:-1,,PT: TVi Reality
+http://62.210.72.137:8080/live/live:mtg_2406_1/live:mtg_2406_1/915.ts
+#EXTINF:-1,,PT: TVi Ficção
+http://62.210.72.137:8080/live/live:mtg_2406_1/live:mtg_2406_1/914.ts
+#EXTINF:-1,,PT: RTP 3
+http://62.210.72.137:8080/live/live:mtg_2406_1/live:mtg_2406_1/913.ts
+#EXTINF:-1,,PT: SIC Noticias
+http://62.210.72.137:8080/live/live:mtg_2406_1/live:mtg_2406_1/912.ts
+#EXTINF:-1,,PT: TVi 24
+http://62.210.72.137:8080/live/live:mtg_2406_1/live:mtg_2406_1/911.ts
+#EXTINF:-1,,PT: CMTV
+http://62.210.72.137:8080/live/live:mtg_2406_1/live:mtg_2406_1/910.ts
+#EXTINF:-1,,PT: Porto Canal
+http://62.210.72.137:8080/live/live:mtg_2406_1/live:mtg_2406_1/909.ts
+#EXTINF:-1,,PT: TV Globo
+http://62.210.72.137:8080/live/live:mtg_2406_1/live:mtg_2406_1/908.ts
+#EXTINF:-1,,PT: TV Globo Premium
+http://62.210.72.137:8080/live/live:mtg_2406_1/live:mtg_2406_1/907.ts
+#EXTINF:-1,,PT: TV Record
+http://62.210.72.137:8080/live/live:mtg_2406_1/live:mtg_2406_1/906.ts
